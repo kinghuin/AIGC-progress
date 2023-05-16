@@ -45,8 +45,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 
 ## 仓库日历 (Repository Calendar)
 
-<details>
-<summary>NLP</summary>
+### NLP
 
 | Date | Repository | Stars | Description |
 |------------|---------|-------|-------------|
@@ -193,20 +192,17 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2021-05-02 | [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) | ![KoboldAI/KoboldAI-Client Stars](https://img.shields.io/github/stars/KoboldAI/KoboldAI-Client.svg?label=&style=flat-square) | This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author's Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. |
 | 2020-08-18 | [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | ![sashabaranov/go-openai Stars](https://img.shields.io/github/stars/sashabaranov/go-openai.svg?label=&style=flat-square) | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go |
 | 2020-08-17 | [karpathy/minGPT](https://github.com/karpathy/minGPT) | ![karpathy/minGPT Stars](https://img.shields.io/github/stars/karpathy/minGPT.svg?label=&style=flat-square) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-</details>
 
 
-<details>
-<summary>CV</summary>
+
+### CV
 WIP
-</details>
 
-<details>
-<summary>Speech</summary>
-TODO
-</details>
 
-<details>
-<summary>Video</summary>
+### Speech
 TODO
-</details>
+
+
+### Video
+TODO
+

@@ -82,8 +82,6 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 
 ![qrcode_for_gh_f4a850cc042f_258](https://github.com/kinghuin/AIGC-progress/assets/11913168/e9da2931-4581-4f62-90f5-077fe4195a0e)
 
-(小声BB: AIGC这个关键词全被BAN了，只能叫“AI进展”了)
-
 ## 仓库日历 (Repository Calendar)
 
 ### NLP

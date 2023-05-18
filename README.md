@@ -38,7 +38,7 @@ With the release of ChatGPT and Midjourney, the development pace of AIGC is acce
 
     * Chat with any Youtube video. Easily input the video url you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included. 与任何YouTube视频进行聊天。轻松输入您想要聊天的视频URL。即时获得答案。使用人工智能提问、提取信息和总结文件。包含数据来源。
 
-### 新变更 (New Updates)
+#### 新变更 (New Updates)
 
 * Temporarily pause from now on and prioritize tagging for both new and existing projects. 暂停追踪新变更，优先给各个项目打tag，方便以后查阅。
 

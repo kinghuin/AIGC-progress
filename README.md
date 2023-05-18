@@ -9,6 +9,15 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 
 ## 最近三天 (Last Three Days)
 
+
+### 2023-5-18 （WIP）
+
+#### 新仓库 (New Repos)
+
+* [nickm980/smallville](https://github.com/nickm980/smallville)
+
+    * Create your own generative agent simulations for RPG games or research.Using LLM models such as ChatGPT or StableLM, agents are able to observe their surroundings, store memories, and react to state changes in the world. 创建自己的生成性代理模拟，用于RPG游戏或研究。使用像ChatGPT或StableLM这样的LLM模型，代理可以观察其周围环境，存储记忆，并对世界状态变化做出反应。
+
 ### 2023-5-17
 
 #### 新仓库 (New Repos)
@@ -78,9 +87,6 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 
     * Connect-AI-E开源马拉松正式开始评审环节
 
-你可以通过RSS或者微信公众号获取每天更新的内容：
-
-![qrcode_for_gh_f4a850cc042f_258](https://github.com/kinghuin/AIGC-progress/assets/11913168/e9da2931-4581-4f62-90f5-077fe4195a0e)
 
 ## 仓库日历 (Repository Calendar)
 
@@ -88,9 +94,9 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 
 | Date | Repository | Stars | Description |
 |------------|---------|-------|-------------|
-| 2023-05-17 | [secondbrain-fyi/secondbrain](https://github.com/secondbrain-fyi/secondbrain) | ![secondbrain-fyi/secondbrain Stars](https://img.shields.io/github/stars/secondbrain-fyi/secondbrain.svg?label=&style=flat-square) | SecondBrain.fyi lets you make an AI chatbot. It knows all about your product and can quickly answer customer questions. |
+| 2023-05-18 | [nickm980/smallville](https://github.com/nickm980/smallville) | ![nickm980/smallville Stars](https://img.shields.io/github/stars/nickm980/smallville.svg?label=&style=flat-square) | Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior |
 | 2023-05-16 | [bhavul/LLM_training_strategies](https://github.com/bhavul/LLM_training_strategies) | ![bhavul/LLM_training_strategies Stars](https://img.shields.io/github/stars/bhavul/LLM_training_strategies.svg?label=&style=flat-square) | Index of useful details for training large language models |
-| 2023-05-16 | [google/feedgen](https://github.com/google/feedgen) | ![google/feedgen Stars](https://img.shields.io/github/stars/google/feedgen.svg?label=&style=flat-square) |  |
+| 2023-05-16 | [google/feedgen](https://github.com/google/feedgen) | ![google/feedgen Stars](https://img.shields.io/github/stars/google/feedgen.svg?label=&style=flat-square) | FeedGen is an open-source tool that uses Google Cloud's state-of-the-art Large Language Models (LLMs) to generate optimised Google Shopping ad titles and descriptions. It helps merchants and advertisers surface and fix quality issues in their Shopping feeds using Generative AI in a configurable, user-friendly and privacy-preserving manner. |
 | 2023-05-15 | [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf) | ![PKU-Alignment/safe-rlhf Stars](https://img.shields.io/github/stars/PKU-Alignment/safe-rlhf.svg?label=&style=flat-square) | Safe-RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback |
 | 2023-05-14 | [hackingthemarkets/financial-news-llama-index](https://github.com/hackingthemarkets/financial-news-llama-index) | ![hackingthemarkets/financial-news-llama-index Stars](https://img.shields.io/github/stars/hackingthemarkets/financial-news-llama-index.svg?label=&style=flat-square) | Financial News Analysis with Llama Index, GPT-4, and Streamlit |
 | 2023-05-13 | [StanGirard/quivr](https://github.com/StanGirard/quivr) | ![StanGirard/quivr Stars](https://img.shields.io/github/stars/StanGirard/quivr.svg?label=&style=flat-square) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
@@ -98,6 +104,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2023-05-10 | [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) | ![jtsang4/claude-to-chatgpt Stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt.svg?label=&style=flat-square) | This project converts the API of Anthropic's Claude model to the OpenAI Chat API format. |
 | 2023-05-08 | [conceptofmind/PaLM](https://github.com/conceptofmind/PaLM) | ![conceptofmind/PaLM Stars](https://img.shields.io/github/stars/conceptofmind/PaLM.svg?label=&style=flat-square) | An open-source implementation of Google's PaLM models |
 | 2023-05-06 | [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) | ![eugeneyan/open-llms Stars](https://img.shields.io/github/stars/eugeneyan/open-llms.svg?label=&style=flat-square) | 🤖 A list of open LLMs available for commercial use. |
+| 2023-05-06 | [yzfly/LangGPT](https://github.com/yzfly/LangGPT) | ![yzfly/LangGPT Stars](https://img.shields.io/github/stars/yzfly/LangGPT.svg?label=&style=flat-square) | LangGPT: Empowering everyone to become a prompt expert!🚀 |
 | 2023-05-04 | [IBM/Dromedary](https://github.com/IBM/Dromedary) | ![IBM/Dromedary Stars](https://img.shields.io/github/stars/IBM/Dromedary.svg?label=&style=flat-square) | Dromedary: towards helpful, ethical and reliable LLMs. |
 | 2023-05-03 | [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) | ![melodysdreamj/WizardVicunaLM Stars](https://img.shields.io/github/stars/melodysdreamj/WizardVicunaLM.svg?label=&style=flat-square) | LLM that combines the principles of wizardLM and vicunaLM |
 | 2023-05-02 | [imartinez/privateGPT](https://github.com/imartinez/privateGPT) | ![imartinez/privateGPT Stars](https://img.shields.io/github/stars/imartinez/privateGPT.svg?label=&style=flat-square) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |
@@ -107,7 +114,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2023-04-29 | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) | ![datawhalechina/prompt-engineering-for-developers Stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg?label=&style=flat-square) | 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU |
 | 2023-04-29 | [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) | ![mosaicml/llm-foundry Stars](https://img.shields.io/github/stars/mosaicml/llm-foundry.svg?label=&style=flat-square) | LLM training code for MosaicML foundation models |
 | 2023-04-29 | [replit/ReplitLM](https://github.com/replit/ReplitLM) | ![replit/ReplitLM Stars](https://img.shields.io/github/stars/replit/ReplitLM.svg?label=&style=flat-square) | Inference code and configs for the ReplitLM model family |
-| 2023-04-29 | [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) | ![mishalhossin/Discord-AI-Chatbot Stars](https://img.shields.io/github/stars/mishalhossin/Discord-AI-Chatbot.svg?label=&style=flat-square) | This is a Discord Chatbot with image detection for free |
+| 2023-04-29 | [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) | ![mishalhossin/Discord-AI-Chatbot Stars](https://img.shields.io/github/stars/mishalhossin/Discord-AI-Chatbot.svg?label=&style=flat-square) | This is a Discord Chatbot with image detection and OCR for free |
 | 2023-04-28 | [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) | ![webwhiz-ai/webwhiz Stars](https://img.shields.io/github/stars/webwhiz-ai/webwhiz.svg?label=&style=flat-square) | WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries. |
 | 2023-04-28 | [dandelionsllm/pandallm](https://github.com/dandelionsllm/pandallm) | ![dandelionsllm/pandallm Stars](https://img.shields.io/github/stars/dandelionsllm/pandallm.svg?label=&style=flat-square) | Panda: 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练。 |
 | 2023-04-26 | [open-mmlab/Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) | ![open-mmlab/Multimodal-GPT Stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT.svg?label=&style=flat-square) | Multimodal-GPT |
@@ -118,11 +125,13 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2023-04-23 | [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) | ![nlpxucan/WizardLM Stars](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg?label=&style=flat-square) | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |
 | 2023-04-23 | [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) | ![mbzuai-nlp/LaMini-LM Stars](https://img.shields.io/github/stars/mbzuai-nlp/LaMini-LM.svg?label=&style=flat-square) | LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions |
 | 2023-04-23 | [StevenGrove/GPT4Tools](https://github.com/StevenGrove/GPT4Tools) | ![StevenGrove/GPT4Tools Stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg?label=&style=flat-square) | GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation. |
+| 2023-04-23 | [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) | ![THUDM/VisualGLM-6B Stars](https://img.shields.io/github/stars/THUDM/VisualGLM-6B.svg?label=&style=flat-square) | Chinese and English multimodal conversational language model \| 多模态中英双语对话语言模型 |
 | 2023-04-22 | [scutcyr/BianQue](https://github.com/scutcyr/BianQue) | ![scutcyr/BianQue Stars](https://img.shields.io/github/stars/scutcyr/BianQue.svg?label=&style=flat-square) | 中文医疗对话模型扁鹊(BianQue) |
 | 2023-04-22 | [voidful/awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) | ![voidful/awesome-chatgpt-dataset Stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset.svg?label=&style=flat-square) | Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT! |
 | 2023-04-22 | [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) | ![gventuri/pandas-ai Stars](https://img.shields.io/github/stars/gventuri/pandas-ai.svg?label=&style=flat-square) | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational |
 | 2023-04-21 | [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) | ![lvwzhen/law-cn-ai Stars](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg?label=&style=flat-square) | ⚖️ AI 法律助手 |
 | 2023-04-21 | [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) | ![SamurAIGPT/Camel-AutoGPT Stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT.svg?label=&style=flat-square) | 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥 |
+| 2023-04-21 | [pixiv/ChatVRM](https://github.com/pixiv/ChatVRM) | ![pixiv/ChatVRM Stars](https://img.shields.io/github/stars/pixiv/ChatVRM.svg?label=&style=flat-square) |  |
 | 2023-04-20 | [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) | ![ninehills/chatglm-openai-api Stars](https://img.shields.io/github/stars/ninehills/chatglm-openai-api.svg?label=&style=flat-square) | Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model |
 | 2023-04-20 | [lamini-ai/lamini](https://github.com/lamini-ai/lamini) | ![lamini-ai/lamini Stars](https://img.shields.io/github/stars/lamini-ai/lamini.svg?label=&style=flat-square) |  |
 | 2023-04-19 | [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) | ![Stability-AI/StableLM Stars](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?label=&style=flat-square) | StableLM: Stability AI Language Models |
@@ -169,7 +178,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2023-03-27 | [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) | ![OptimalScale/LMFlow Stars](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?label=&style=flat-square) | An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. |
 | 2023-03-26 | [s-JoL/Open-Llama](https://github.com/s-JoL/Open-Llama) | ![s-JoL/Open-Llama Stars](https://img.shields.io/github/stars/s-JoL/Open-Llama.svg?label=&style=flat-square) | The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF. |
 | 2023-03-25 | [databrickslabs/dolly](https://github.com/databrickslabs/dolly) | ![databrickslabs/dolly Stars](https://img.shields.io/github/stars/databrickslabs/dolly.svg?label=&style=flat-square) | Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform |
-| 2023-03-25 | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) | ![h2oai/h2ogpt Stars](https://img.shields.io/github/stars/h2oai/h2ogpt.svg?label=&style=flat-square) | Come join the movement to make the world's best open source GPT led by H2O.ai |
+| 2023-03-25 | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) | ![h2oai/h2ogpt Stars](https://img.shields.io/github/stars/h2oai/h2ogpt.svg?label=&style=flat-square) | Come join the movement to make the world's best open source GPT led by H2O.ai - 100% private chat and document search, no data leaks, Apache 2.0 |
 | 2023-03-25 | [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) | ![wenda-LLM/wenda Stars](https://img.shields.io/github/stars/wenda-LLM/wenda.svg?label=&style=flat-square) | 闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力 |
 | 2023-03-24 | [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) | ![PhoebusSi/Alpaca-CoT Stars](https://img.shields.io/github/stars/PhoebusSi/Alpaca-CoT.svg?label=&style=flat-square) | We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. Meanwhile, we created a new branch to build a Tabular LLM.（我们分别统一了丰富的IFT数据（如CoT数据，目前仍不断扩充）、多种训练效率方法（如lora，p-tuning）以及多种LLMs，三个层面上的接口，打造方便研究人员上手的LLM-IFT研究平台。同时tabular_llm分支构建了面向表格智能任务的LLM。 |
 | 2023-03-24 | [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) | ![zilliztech/GPTCache Stars](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?label=&style=flat-square) | GPTCache is a semantic cache library for LLM models and multi-models, which seamlessly integrates with 🦜️🔗LangChain and 🦙llama_index, making it accessible to 🌎 developers working in any language. |
@@ -177,7 +186,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2023-03-23 | [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | ![openai/chatgpt-retrieval-plugin Stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin.svg?label=&style=flat-square) | The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. |
 | 2023-03-23 | [Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) | ![Facico/Chinese-Vicuna Stars](https://img.shields.io/github/stars/Facico/Chinese-Vicuna.svg?label=&style=flat-square) | Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca |
 | 2023-03-22 | [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) | ![Lightning-AI/lit-llama Stars](https://img.shields.io/github/stars/Lightning-AI/lit-llama.svg?label=&style=flat-square) | Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. |
-| 2023-03-21 | [CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) | ![CVI-SZU/Linly Stars](https://img.shields.io/github/stars/CVI-SZU/Linly.svg?label=&style=flat-square) | Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集 |
+| 2023-03-21 | [CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) | ![CVI-SZU/Linly Stars](https://img.shields.io/github/stars/CVI-SZU/Linly.svg?label=&style=flat-square) | Chinese-LLaMA基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集 |
 | 2023-03-21 | [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) | ![ohmplatform/FreedomGPT Stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT.svg?label=&style=flat-square) | This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora) |
 | 2023-03-21 | [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) | ![LC1332/Luotuo-Chinese-LLM Stars](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?label=&style=flat-square) | 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技 |
 | 2023-03-20 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | ![binary-husky/gpt_academic Stars](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg?label=&style=flat-square) | 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。 |
@@ -252,7 +261,7 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2022-12-04 | [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | ![mpociot/chatgpt-vscode Stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg?label=&style=flat-square) | A VSCode extension that allows you to use ChatGPT |
 | 2022-12-04 | [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | ![wong2/chatgpt-google-extension Stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension.svg?label=&style=flat-square) | A browser extension that enhance search engines with ChatGPT |
 | 2022-12-03 | [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | ![transitive-bullshit/chatgpt-api Stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api.svg?label=&style=flat-square) | Node.js client for the official ChatGPT API. 🔥 |
-| 2022-12-03 | [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | ![qunash/chatgpt-advanced Stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg?label=&style=flat-square) | WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. |
+| 2022-12-03 | [qunash/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) | ![qunash/chatgpt-advanced Stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg?label=&style=flat-square) | WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. |
 | 2022-12-03 | [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) | ![acheong08/ChatGPT Stars](https://img.shields.io/github/stars/acheong08/ChatGPT.svg?label=&style=flat-square) | Reverse engineered ChatGPT API |
 | 2022-12-01 | [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ![vincelwt/chatgpt-mac Stars](https://img.shields.io/github/stars/vincelwt/chatgpt-mac.svg?label=&style=flat-square) | ChatGPT for Mac, living in your menubar. |
 | 2022-11-22 | [young-geng/EasyLM](https://github.com/young-geng/EasyLM) | ![young-geng/EasyLM Stars](https://img.shields.io/github/stars/young-geng/EasyLM.svg?label=&style=flat-square) | Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. |
@@ -266,8 +275,9 @@ Follow the rapid development of AIGC models and applications. Discover new repo 
 | 2020-08-18 | [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | ![sashabaranov/go-openai Stars](https://img.shields.io/github/stars/sashabaranov/go-openai.svg?label=&style=flat-square) | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go |
 | 2020-08-17 | [karpathy/minGPT](https://github.com/karpathy/minGPT) | ![karpathy/minGPT Stars](https://img.shields.io/github/stars/karpathy/minGPT.svg?label=&style=flat-square) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
 
+TODO：
 
-
+* ADD TAGS 给每一个Repo增加标签
 
 ### CV
 WIP
@@ -280,3 +290,9 @@ TODO
 ### Video
 TODO
 
+
+
+
+你可以通过RSS或者微信公众号获取每天更新的内容：
+
+![qrcode_for_gh_f4a850cc042f_258](https://github.com/kinghuin/AIGC-progress/assets/11913168/e9da2931-4581-4f62-90f5-077fe4195a0e)

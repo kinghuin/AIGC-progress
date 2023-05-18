@@ -1,12 +1,8 @@
 # AIGC进展
 
-随着ChatGPT和Midjourney的发布，AIGC的发展速度越来越快，每天都会涌现出大量的新项目。
+随着ChatGPT和Midjourney的发布，AIGC的发展速度越来越快，每天都会涌现出大量的新项目。为了跟上它们的步伐，本项目每天都会更新新项目，并为它们打上合适的标签。
 
-为了跟上它们的步伐，本项目每天都会更新新项目，并为它们打上合适的标签。
-
-With the release of ChatGPT and Midjourney, the development pace of AIGC is accelerating, and a plethora of new projects emerges every day. 
-
-In order to keep up with them, this project will updates new projects on a daily basis and tags them appropriately.
+With the release of ChatGPT and Midjourney, the development pace of AIGC is accelerating, and a plethora of new projects emerges every day. In order to keep up with them, this project will updates new projects on a daily basis and tags them appropriately.
 
 ![image](./img/repository_month_count.png)
 

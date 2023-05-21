@@ -26,6 +26,12 @@ Existing curated repositories, represented by Awesome, typically classify reposi
 
 * [智能体（Agent）](tags/智能体.md)
 
+* [可商用 (Commercial Use)](tags/可商用.md)
+
+* [中文（Chinese）](tags/中文.md)：中文模型或中文数据集。（Chinese Model or Chinese Dataset）
+
+* [其它 (others)](tags/其它.md)
+
 点击上面Tag可以跳转到相应Tag的markdown文档。Clicking on the above tags will redirect you to the corresponding markdown document.
 
 ## Repositories

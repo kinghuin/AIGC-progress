@@ -30,17 +30,16 @@ You can follow the timeline to see the latest developments and easily find new m
 |                  | [🔌](tags/🔌.md)     | Provide model plugin                                         | 提供了相关插件                                               |
 |                  | [📱](tags/📱.md)     | Utilizes the model to accomplish some task                   | 使用模型去完成某件任务，例如AutoGPT、头像生成器等            |
 |                  | [❓ ](tags/❓.md)    | Other uncategorized items                                    | 其它不好分类的                                               |
-| Other 其它       | [✅](tags/✅.md)   | Commercial friendly                                          | 商业友好                                                     |
+| Other 其它       | [💰](tags/💰.md)   | Commercial friendly                                          | 商业友好                                                     |
 |                  | [🀄](tags/🀄.md)    | The model or dataset is Chinese                              | 中文模型或中文数据集                                         |
-
-You can click the tag icons to the corresponding markdown document or open [xlsx file](repo.xlsx) to filter or sort the repositories by your own.
-
-点击Tag图标可以跳转到相应的markdown文档，或者打开[xlsx文件](repo.xlsx)自行筛选或排序。
 
 ` ` means the feature is under development. For example, 🚌 means the model has been provided, `🚌` means the model will be provided in the future.
 
 ` `表示该功能正在实现中，例如🚌表示已提供模型，`🚌`则表示将来会提供模型。
 
+You can click the above tag icons to the corresponding markdown document or open [xlsx file](repo.xlsx) to filter or sort the repositories by your own.
+
+点击上面的Tag图标可以跳转到相应的markdown文档，或者打开[xlsx文件](repo.xlsx)自行筛选或排序。
 
 ## Repositories
 
@@ -49,24 +48,24 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-07-17 | [KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning) | 33 | 🔠🎵📱 | Chat with any character you like: ChatGLM2-6B+Voice Cloning \| 和喜欢的角色沉浸式对话吧：ChatGLM2-6B+声音克隆|
 | 2023-07-16 | [Vanda688/Using-GPT4-image-recognition-on-NewBing](https://github.com/Vanda688/Using-GPT4-image-recognition-on-NewBing) | 49 | 🔠📝 | 如题，这是一个解锁NewBing的GPT4识图能力的简单教程。|
 | 2023-07-16 | [caopulan/iKUNet](https://github.com/caopulan/iKUNet) | 70 | 🖼️📱 | 近年来，由于明星、企业频繁塌房，衍生出一个新的需求，即移除情节中的某个元素，如某个明星或某个赞助商，我们将这个任务命名为🎥元素移除。 |
-| 2023-07-15 | [RimoChan/emmmbedding](https://github.com/RimoChan/emmmbedding) | 109 | 🖼️📱 | 【emmmbedding】不用存储的图床！|
-| 2023-07-15 | [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) | 172 | 🎵📱 | a co-creative looper that uses generative modeling to **not** repeat itself. |
+| 2023-07-15 | [RimoChan/emmmbedding](https://github.com/RimoChan/emmmbedding) | 110 | 🖼️📱 | 【emmmbedding】不用存储的图床！|
+| 2023-07-15 | [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) | 173 | 🎵📱 | a co-creative looper that uses generative modeling to **not** repeat itself. |
 | 2023-07-15 | [moreshk/alzebra](https://github.com/moreshk/alzebra) | 42 | 🔠📱 | Math Tutor for kids|
 | 2023-07-15 | [utkusen/promptmap](https://github.com/utkusen/promptmap) | 34 | 🔠🔨 | automatically tests prompt injection attacks on ChatGPT instances|
 | 2023-07-14 | [mshumer/anthropic_with_functions](https://github.com/mshumer/anthropic_with_functions) | 107 | 🔠🔨 | |
-| 2023-07-13 | [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) | 251 | 🔠🔨 | Unofficial API for Claude-2 via Claude Web (Also CLI)|
+| 2023-07-13 | [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) | 252 | 🔠🔨 | Unofficial API for Claude-2 via Claude Web (Also CLI)|
 | 2023-07-13 | [X-PLUG/CValues](https://github.com/X-PLUG/CValues) | 142 | 🔠⛽🀄❓ | 面向中文大模型价值观的评估与对齐研究|
 | 2023-07-12 | [yangyuke001/SD-inference](https://github.com/yangyuke001/SD-inference) | 67 | 🔠🖼️💡 | Stable Diffusion inference|
 | 2023-07-11 | [baaivision/Emu](https://github.com/baaivision/Emu) | 339 | 🔠🖼️🚌 | Emu: An Open Multimodal Generalist|
 | 2023-07-10 | [HillZhang1999/llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) | 78 | 🔠📝 | Reading list of hallucination in LLMs.|
 | 2023-07-10 | [Lakr233/RainbowFart](https://github.com/Lakr233/RainbowFart) | 62 | 🔠📱 | 全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。|
 | 2023-07-10 | [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) | 1572 | 🔠🚌✂️ | A 13B large language model developed by Baichuan Intelligent Technology|
-| 2023-07-10 | [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | 323 | 🔠📱 | Open source implementation of the ChatGPT Code Interpreter 👾|
+| 2023-07-10 | [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | 328 | 🔠📱 | Open source implementation of the ChatGPT Code Interpreter 👾|
 | 2023-07-10 | [sourcegraph/cody](https://github.com/sourcegraph/cody) | 78 | 🔠📱 | Code AI with codebase context|
 | 2023-07-09 | [ChaseLean/gpt-prompts](https://github.com/ChaseLean/gpt-prompts) | 85 | 🔠📝 | A compilation of some Chat-GPT prompts I find useful.|
 | 2023-07-09 | [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText) | 45 | 🔠📱 | Turn an entire GitHub Repo into a single organized .txt file to use with Code Interpreter|
-| 2023-07-09 | [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) | 385 | 🔠🔨 | 🩹Editing large language models within 10 seconds⚡|
-| 2023-07-08 | [SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) | 645 | 🔠📝 | Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|
+| 2023-07-09 | [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) | 386 | 🔠🔨 | 🩹Editing large language models within 10 seconds⚡|
+| 2023-07-08 | [SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) | 646 | 🔠📝 | Awesome things you can do with ChatGPT + Code Interpreter combo 🔥|
 | 2023-07-08 | [Yujun-Shi/DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) | 334 | 🖼️🚌2️⃣ | Official code for DragDiffusion|
 | 2023-07-08 | [lifeisboringsoprogramming/sd-webui-xldemo-txt2img](https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img) | 130 | 🖼️🔌 | Stable Diffusion XL 0.9 Demo webui extension|
 | 2023-07-08 | [taprosoft/llm_finetuning](https://github.com/taprosoft/llm_finetuning) | 88 | 🔠2️⃣✂️ | Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes)|
@@ -83,7 +82,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-07-05 | [Sentdex/Falcon-LLM](https://github.com/Sentdex/Falcon-LLM) | 121 | 🔠❓ | Helper scripts and examples for exploring the Falcon LLM models|
 | 2023-07-04 | [LPengYang/FreeDrag](https://github.com/LPengYang/FreeDrag) | 224 | 🖼️🚌 | Official Implementation of FreeDrag|
 | 2023-07-04 | [SpongebBob/Finetune-ChatGLM2-6B](https://github.com/SpongebBob/Finetune-ChatGLM2-6B) | 164 | 🔠⛽2️⃣✂️ | ChatGLM2-6B 全参数微调，支持多轮对话的高效微调。|
-| 2023-07-04 | [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | 3815 | 🔠🔨 | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.|
+| 2023-07-04 | [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | 3819 | 🔠🔨 | Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.|
 | 2023-07-04 | [text2cinemagraph/text2cinemagraph](https://github.com/text2cinemagraph/text2cinemagraph) | 108 | 🔠🎥🚌2️⃣ | Official Pytorch implementation of Text2Cinemagraph: Synthesizing Artistic Cinemagraphs from Text|
 | 2023-07-04 | [zideliu/StyleDrop-PyTorch](https://github.com/zideliu/StyleDrop-PyTorch) | 390 | 🖼️⛽🚌2️⃣ | Unoffical implement for [StyleDrop](https://arxiv.org/abs/2306.00983)|
 | 2023-07-02 | [Illyism/openai-whisper-api](https://github.com/Illyism/openai-whisper-api) | 33 | 🎵🔨 | OpenAI Whisper API based on Node.js / Bun.sh in a Docker Container + Google Cloud Run Example|
@@ -94,7 +93,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-07-01 | [abacaj/code-eval](https://github.com/abacaj/code-eval) | 126 | 🔠❓ | Run evaluation on LLMs using human-eval benchmark|
 | 2023-06-30 | [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) | 661 | 🔠🖼️🚌`2️⃣`🀄 | Chinese and English Multimodal Large Model Series (Chat and Paint) \| 基于CPM基础模型的中英双语多模态大模型系列|
 | 2023-06-30 | [austin2035/chatpdf](https://github.com/austin2035/chatpdf) | 250 | 🔠📱 | Chat with pdf.|
-| 2023-06-30 | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | 4250 | 🔠📱 | 🌟 The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo|
+| 2023-06-30 | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | 4251 | 🔠📱 | 🌟 The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo|
 | 2023-06-30 | [jtydhr88/sd-webui-3d-editor](https://github.com/jtydhr88/sd-webui-3d-editor) | 81 | 🖼️🔌 | A custom extension for sd-webui that with 3D modeling features (add/edit basic elements, load your custom model, modify scene and so on), then send screenshot to txt2img or img2img as your ControlNet's reference image, basing on ThreeJS editor|
 | 2023-06-29 | [IMOSR/MediaGPT](https://github.com/IMOSR/MediaGPT) | 399 | 🔠⛽🚕2️⃣🀄 | 中文的自媒体大语言模型MediaGPT(曾用名Media LLaMA)|
 | 2023-06-29 | [dabit3/openai-functions-god-app](https://github.com/dabit3/openai-functions-god-app) | 223 | 🔠🔨 | Instead of using separate interfaces for image generation, video generation, audio generation, and general text natural language processing, this app combines all of them together into a single prompt.|
@@ -102,11 +101,11 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-28 | [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) | 233 | 🔠🔨 | A ChatGPT that supports plugins. TG: https://t.me/+bIZncGryj_85MjYx|
 | 2023-06-28 | [mayooear/private-chatbot-mpt30b-langchain](https://github.com/mayooear/private-chatbot-mpt30b-langchain) | 132 | 🔠📱 | Chat with your data privately using MPT-30b |
 | 2023-06-27 | [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) | 86 | 🔠📱 | Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀 |
-| 2023-06-27 | [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) | 217 | 🔠🎥📱 | 🚀🎬 ShortGPT - An experimental framework for automated short/video content. Enables creators to rapidly produce, manage, and deliver content using AI and automation.|
+| 2023-06-27 | [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) | 219 | 🔠🎥📱 | 🚀🎬 ShortGPT - An experimental framework for automated short/video content. Enables creators to rapidly produce, manage, and deliver content using AI and automation.|
 | 2023-06-27 | [easychen/deepgpt-dist](https://github.com/easychen/deepgpt-dist) | 175 | 🔠📱 | DeepGPT，类agentGPT/AutoGPT 工具，支持 api2d / 和自定义 openai key。此为静态网页独立部署版，部署方便|
 | 2023-06-27 | [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) | 160 | 🖼️🔨 | ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp|
-| 2023-06-26 | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) | 1159 | 🔠🎵📱 | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime(All in One Codebase!). Have a natural seamless conversation with AI everywhere(mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖|
-| 2023-06-26 | [antfu/qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) | 693 | 🖼️🔌 | Anthony's QR Code Toolkit for AI generated QR Codes|
+| 2023-06-26 | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) | 1175 | 🔠🎵📱 | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime(All in One Codebase!). Have a natural seamless conversation with AI everywhere(mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖|
+| 2023-06-26 | [antfu/qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) | 694 | 🖼️🔌 | Anthony's QR Code Toolkit for AI generated QR Codes|
 | 2023-06-26 | [artyfacialintelagent/CloneCleaner](https://github.com/artyfacialintelagent/CloneCleaner) | 62 | 🖼️🔌 | An extension for Automatic1111 to work around Stable Diffusion's "clone problem". It automatically modifies your prompts with random names, nationalities, hair style and hair color to create more variations in generated people.|
 | 2023-06-26 | [blockpipe/BlockAGI](https://github.com/blockpipe/BlockAGI) | 132 | 🔠📱 | Your Self-Hosted, Hackable Research Agent Inspired by AutoGPT|
 | 2023-06-26 | [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) | 140 | 🔠🔨 | Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.|
@@ -114,7 +113,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-25 | [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) | 156 | 🔠📱 | Framework to easily create LLM powered bots over any dataset.|
 | 2023-06-25 | [hegelai/prompttools](https://github.com/hegelai/prompttools) | 374 | 🔠❓ | Open-source tools for prompt testing and experimentation|
 | 2023-06-25 | [steven-tey/chathn](https://github.com/steven-tey/chathn) | 792 | 🔠📱 | Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.|
-| 2023-06-24 | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) | 5856 | 🔠📱 | Easily migrate your codebase from one framework or language to another.|
+| 2023-06-24 | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) | 5857 | 🔠📱 | Easily migrate your codebase from one framework or language to another.|
 | 2023-06-24 | [EvilPsyCHo/train_custom_LLM](https://github.com/EvilPsyCHo/train_custom_LLM) | 110 | 🔠2️⃣ | Train your custom LLMs like Llama, baichuan-7b, GPT|
 | 2023-06-24 | [JorisdeJong123/7-Days-of-LangChain](https://github.com/JorisdeJong123/7-Days-of-LangChain) | 147 | 🔠📝 | Code repo for 7 Days of LangChain|
 | 2023-06-24 | [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 9228 | 🔠🚌✂️🀄 | ChatGLM2-6B: An Open Bilingual Chat LLM \| 开源双语对话语言模型|
@@ -123,7 +122,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-23 | [salesforce/xgen](https://github.com/salesforce/xgen) | 631 | 🔠🚌 | Salesforce open-source LLMs with 8k sequence length.|
 | 2023-06-22 | [FireCubeStudios/Clippy](https://github.com/FireCubeStudios/Clippy) | 155 | 🔠📱 | Bring back Clippy on Windows 10/11!|
 | 2023-06-22 | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) | 3020 | 🖼️⛽🚌2️⃣ | Generative Models by Stability AI|
-| 2023-06-22 | [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) | 3893 | 🔠📱 | AI companions with memory: a lightweight stack to create and host your own AI companions|
+| 2023-06-22 | [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) | 3896 | 🔠📱 | AI companions with memory: a lightweight stack to create and host your own AI companions|
 | 2023-06-22 | [eric-mitchell/direct-preference-optimization](https://github.com/eric-mitchell/direct-preference-optimization) | 260 | 🔠2️⃣3️⃣ | Reference implementation for DPO (Direct Preference Optimization)|
 | 2023-06-22 | [lyleshaw/TweetAnalyzer](https://github.com/lyleshaw/TweetAnalyzer) | 117 | 🔠📱 | Grab tweets, call Claude or GPT3.5 for analysis and make comments on tweeters|
 | 2023-06-22 | [phodal/aigc](https://github.com/phodal/aigc) | 678 | 🔠📝 | 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。|
@@ -138,13 +137,13 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-20 | [mshumer/gpt-author](https://github.com/mshumer/gpt-author) | 850 | 🔠📱 | This project utilizes a chain of GPT-4 and Stable Diffusion API calls to generate an original fantasy novel. Users can provide an initial prompt and enter how many chapters they'd like it to be, and the AI then generates an entire novel, outputting an EPUB file compatible with e-book readers.|
 | 2023-06-20 | [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) | 145 | 🔠🔨 | vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装|
 | 2023-06-19 | [beyondguo/LLM-Tuning](https://github.com/beyondguo/LLM-Tuning) | 369 | 🔠2️⃣ | Tuning LLMs with no tears💦, sharing LLM-tools with love❤️.|
-| 2023-06-19 | [blinq-dev/laravel-synth](https://github.com/blinq-dev/laravel-synth) | 213 | 🔠📱 | Generate Laravel code with ChatGPT|
+| 2023-06-19 | [blinq-dev/laravel-synth](https://github.com/blinq-dev/laravel-synth) | 214 | 🔠📱 | Generate Laravel code with ChatGPT|
 | 2023-06-19 | [ggml-org/p1](https://github.com/ggml-org/p1) | 118 | 🔠📱 | LLM-based code completion engine|
-| 2023-06-19 | [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) | 874 | 🔠📱 | Simple script to use ChatGPT on your own files.|
+| 2023-06-19 | [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) | 875 | 🔠📱 | Simple script to use ChatGPT on your own files.|
 | 2023-06-18 | [automorphic-ai/aegis](https://github.com/automorphic-ai/aegis) | 156 | 🔠🔨 | Self-hardening firewall for large language models|
 | 2023-06-18 | [hougarry/Mr.Gee-Your-AI-Language-Bot](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot) | 100 | 🔠📱 | Using Mr.Gee  to learn any language by yourself through Chat-GPT/Bing/Bard/Claude.“使用AI和ChatGPT学习英语”，“AI辅助英语学习”"ChatGPT作为AI英语学习工具"，"ChatGPT的英语学习技巧" "使用AIとChatGPTで英語を学ぶ", "ChatGPTをAI英語学習ツールとして使用する", "ChatGPT英語学習のテクニック""Chatgpt学托福，GRE, 雅思，托业"“use-chatgpt -learn english”|
 | 2023-06-17 | [e-johnstonn/FableForge](https://github.com/e-johnstonn/FableForge) | 287 | 🔠🖼️🔨 | Generate a picture book from a single prompt using OpenAI function calling, replicate, and Deep Lake|
-| 2023-06-17 | [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) | 1632 | 🔠🎥🚌 | Official implementation of AnimateDiff.|
+| 2023-06-17 | [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) | 1636 | 🔠🎥🚌 | Official implementation of AnimateDiff.|
 | 2023-06-17 | [hylarucoder/ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt) | 175 | 🔠🔨 | ChatGPT Web Nuxt 3  Vue 3 Version|
 | 2023-06-17 | [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) | 418 | 🔠🔨 | Spring Boot ChatGPT Starter|
 | 2023-06-17 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 343 | 🔠📝 | Course with a roadmap and notebooks to get into Large Language Models (LLMs).|
@@ -158,7 +157,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-14 | [dabit3/prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) | 113 | 🔠📝 | Notes summarized from ChatGPT Prompt Engineering for Developers by DeepLearning.ai|
 | 2023-06-14 | [jxnl/openai_function_call](https://github.com/jxnl/openai_function_call) | 501 | 🔠🔨 | Helper functions to create openai function calls w/ pydantic|
 | 2023-06-14 | [life-exe/UnrealOpenAIPlugin](https://github.com/life-exe/UnrealOpenAIPlugin) | 70 | 🔠🖼️🎵📱 | This plugin is a comprehensive Unreal Engine wrapper for the OpenAI API.|
-| 2023-06-14 | [sweepai/sweep](https://github.com/sweepai/sweep) | 601 | 🔠📱 | Sweep is an AI junior developer|
+| 2023-06-14 | [sweepai/sweep](https://github.com/sweepai/sweep) | 603 | 🔠📱 | Sweep is an AI junior developer|
 | 2023-06-13 | [SizheAn/PanoHead](https://github.com/SizheAn/PanoHead) | 1289 | 🖼️🚌2️⃣🧊 | Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"|
 | 2023-06-13 | [microsoft/promptbench](https://github.com/microsoft/promptbench) | 111 | 🔠❓ | A robustness evaluation framework for large language models on adversarial prompts|
 | 2023-06-12 | [SqueezeAILab/SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM) | 338 | 🔠✂️ | SqueezeLLM: Dense-and-Sparse Quantization|
@@ -171,18 +170,18 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-06-09 | [ju-bezdek/langchain-decorators](https://github.com/ju-bezdek/langchain-decorators) | 158 | 🔠📱 | syntactic sugar 🍭 for langchain|
 | 2023-06-09 | [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) | 466 | 🔠📱 | Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow|
 | 2023-06-08 | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) | 8703 | 🎵🚌`2️⃣` | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.|
-| 2023-06-07 | [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) | 4165 | 🔠⛽🚕 | 中文法律大模型|
+| 2023-06-07 | [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) | 4166 | 🔠⛽🚕 | 中文法律大模型|
 | 2023-06-06 | [locuslab/wanda](https://github.com/locuslab/wanda) | 260 | 🔠✂️ | A simple and effective LLM pruning approach.|
 | 2023-06-05 | [BrandonHanx/HeadSculpt](https://github.com/BrandonHanx/HeadSculpt) | 82 | 🔠2️⃣🧊 | [arXiv 2023 WIP] HeadSculpt: Crafting 3D Head Avatars with Text|
 | 2023-06-05 | [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | 4036 | 🔠🖼️🔨 | 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \| Own your own ChatGPT+Midjourney web service with one click|
 | 2023-06-05 | [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) | 223 | 🔠🚌✂️ | YuLan-Chat: An Open-Source Bilingual Chatbot|
 | 2023-06-05 | [Richasy/FantasyCopilot](https://github.com/Richasy/FantasyCopilot) | 283 | 🔠🖼️🎵🔨 | A new-age AI desktop tool|
 | 2023-06-05 | [Vahe1994/SpQR](https://github.com/Vahe1994/SpQR) | 412 | 🔠✂️ | This repository contains quantization algorithm and the model evaluation code for SpQR method for LLM compression|
-| 2023-06-04 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 1998 | 🔠🔨 | A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.|
+| 2023-06-04 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 1999 | 🔠🔨 | A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.|
 | 2023-06-04 | [axodox/axodox-machinelearning](https://github.com/axodox/axodox-machinelearning) | 496 | 🖼️💡 | This repository contains a C++ ONNX implementation of StableDiffusion.|
 | 2023-06-04 | [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) | 1223 | 🔠📝 | Github Copilot是一种基于机器学习的代码自动补全🔨。探索了这个VSCode🔌的详细实现|
 | 2023-06-04 | [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) | 483 | 🔠🔨 | Create chatbots with ease|
-| 2023-06-04 | [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) | 3200 | 🔠🔨 | GPT 3.5/4 with a Chat Web UI. No API key required.|
+| 2023-06-04 | [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) | 3201 | 🔠🔨 | GPT 3.5/4 with a Chat Web UI. No API key required.|
 | 2023-06-03 | [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) | 832 | 🔠`🚌` | We present InternLM, a multilingual foundational language model with 104B parameters. InternLM is pre-trained on a large corpora with 1.6T tokens with a multi-phase progressive process, and then fine-tuned to align with human preferences.|
 | 2023-06-03 | [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT) | 338 | 🔠📱 | Giving LLMs like GPT-4 the ability to plan and execute terminal commands|
 | 2023-06-02 | [marella/chatdocs](https://github.com/marella/chatdocs) | 290 | 🔠📱 | Chat with your documents offline using AI.|
@@ -206,13 +205,13 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-28 | [rmihaylov/falcontune](https://github.com/rmihaylov/falcontune) | 440 | 🔠✂️ | Tune any FALCON in 4-bit|
 | 2023-05-25 | [MineDojo/Voyager](https://github.com/MineDojo/Voyager) | 3729 | 🔠📱 | An Open-Ended Embodied Agent with Large Language Models|
 | 2023-05-25 | [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) | 2330 | 🔠📱 | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks|
-| 2023-05-25 | [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) | 833 | 🔠📱 | proposing a closed-loop framework, referred to as LLMs A s Tool M akers (LATM), where LLMs create their own reusable tools for problem-solving.|
+| 2023-05-25 | [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) | 834 | 🔠📱 | proposing a closed-loop framework, referred to as LLMs A s Tool M akers (LATM), where LLMs create their own reusable tools for problem-solving.|
 | 2023-05-25 | [imoneoi/openchat](https://github.com/imoneoi/openchat) | 1346 | 🔠⛽🚌🚕2️⃣ | OpenChat: Less is More for Open-source Models|
 | 2023-05-25 | [personoids/personoids-lite](https://github.com/personoids/personoids-lite) | 312 | 🔠📱 | "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. |
 | 2023-05-24 | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 9908 | 🔠📱 | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 | 2023-05-24 | [danieljpalmer/llm-analyst](https://github.com/danieljpalmer/llm-analyst) | 103 | 🔠📱 | LLM powered agent that analyses SQL databases.|
 | 2023-05-24 | [luohongyin/SAIL](https://github.com/luohongyin/SAIL) | 116 | 🔠⛽🚌2️⃣ | SAIL: Search Augmented Instruction Learning|
-| 2023-05-24 | [wenge-research/YaYi](https://github.com/wenge-research/YaYi) | 853 | 🔠⛽🚕2️⃣ | 雅意大模型：为每一家企业打造大模型|
+| 2023-05-24 | [wenge-research/YaYi](https://github.com/wenge-research/YaYi) | 854 | 🔠⛽🚕2️⃣ | 雅意大模型：为每一家企业打造大模型|
 | 2023-05-23 | [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) | 255 | 🔠⛽`🚌`2️⃣ | An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.|
 | 2023-05-23 | [ShihaoZhaoZSH/Uni-ControlNet](https://github.com/ShihaoZhaoZSH/Uni-ControlNet) | 348 | 🖼️📱 | Uni-ControlNet is a novel controllable diffusion model that allows for the simultaneous utilization of different local controls and global controls in a flexible and composable manner within one model.|
 | 2023-05-23 | [WangRongsheng/XrayGLM](https://github.com/WangRongsheng/XrayGLM) | 475 | 🔠🖼️⛽🚌 | 🩺 首个会看胸部X光片的中文多模态医学大模型 \| The first Chinese Medical Multimodal Model that Chest Radiographs Summarization.|
@@ -223,12 +222,12 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-23 | [zzkcaesar/Caesar_prompt](https://github.com/zzkcaesar/Caesar_prompt) | 147 | 🔠📝 | This is the collection of LLM prompt which collected by Caesar|
 | 2023-05-22 | [Anil-matcha/DiscordGPT](https://github.com/Anil-matcha/DiscordGPT) | 68 | 🔠🔨 | Integrate ChatGPT into your own discord bot|
 | 2023-05-22 | [Illumine-Labs/Mr.Translate](https://github.com/Illumine-Labs/Mr.Translate) | 333 | 🔠📝 | ChatGPT 翻译助手 Prompt|
-| 2023-05-22 | [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) | 482 | 🎥📱 | [Arxiv 2023] Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation"|
+| 2023-05-22 | [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) | 483 | 🎥📱 | [Arxiv 2023] Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation"|
 | 2023-05-22 | [aiwaves-cn/RecurrentGPT](https://github.com/aiwaves-cn/RecurrentGPT) | 706 | 🔠❓ | Official Code for Paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text|
 | 2023-05-22 | [cg1177/VideoLLM](https://github.com/cg1177/VideoLLM) | 106 | 🎥📝 | VideoLLM: Modeling Video Sequence with Large Language Models|
 | 2023-05-22 | [dave1010/tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) | 322 | 🔠📝 | Using Tree-of-Thought Prompting to boost ChatGPT's reasoning|
 | 2023-05-22 | [google-research-datasets/seahorse](https://github.com/google-research-datasets/seahorse) | 61 | 🔠⛽ | Seahorse is a dataset for multilingual, multi-faceted summarization evaluation. It consists of 96K summaries with human ratings along 6 quality dimensions: comprehensibility, repetition, grammar, attribution, main idea(s), and conciseness, covering 6 languages, 9 systems and 4 datasets.|
-| 2023-05-22 | [gptlink/gptlink](https://github.com/gptlink/gptlink) | 2270 | 🔠🔨 | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能|
+| 2023-05-22 | [gptlink/gptlink](https://github.com/gptlink/gptlink) | 2271 | 🔠🔨 | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能|
 | 2023-05-22 | [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) | 116 | 🔠📱 | Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!|
 | 2023-05-21 | [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) | 3242 | 🔠❓ | Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% |
 | 2023-05-20 | [CyberTimon/Powerpointer-For-Local-LLMs](https://github.com/CyberTimon/Powerpointer-For-Local-LLMs) | 74 | 🔠📱 | Local Powerpointer - A beautiful powerpoint generator which uses the power of local running large language models to generate the powerpoint slides.|
@@ -238,12 +237,12 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-19 | [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) | 557 | 🖼️🚌 | Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models|
 | 2023-05-19 | [SamurAIGPT/langchain-course](https://github.com/SamurAIGPT/langchain-course) | 841 | 🔠📝 | Learn to build and deploy AI apps. |
 | 2023-05-19 | [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) | 4559 | 🔠⛽🚌`2️⃣`🔨💰 | Gorilla: An API store for LLMs|
-| 2023-05-19 | [YuanGongND/ltu](https://github.com/YuanGongND/ltu) | 76 | 🔠🎵`2️⃣` | Github Repo for Paper "Listen, Think, and Understand".|
+| 2023-05-19 | [YuanGongND/ltu](https://github.com/YuanGongND/ltu) | 77 | 🔠🎵`2️⃣` | Github Repo for Paper "Listen, Think, and Understand".|
 | 2023-05-19 | [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) | 614 | 🔠📱 | A Langchain app that allows you to chat with multiple PDFs|
 | 2023-05-19 | [funnyzak/ChatMate-GPT](https://github.com/funnyzak/ChatMate-GPT) | 121 | 🔠🔨 | ChatMate是一个基于Open AI GPT-3的聊天应用。你可以和它聊天，它会根据你的内容提供智能回复和实用服务。|
 | 2023-05-19 | [microsoft/PodcastCopilot](https://github.com/microsoft/PodcastCopilot) | 553 | 🔠🎵📱 | Build 2023 demo|
-| 2023-05-19 | [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) | 2178 | 🔠🔨 | A full-featured, hackable Next.js AI chatbot built by Vercel Labs|
-| 2023-05-18 | [OFA-Sys/ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) | 518 | 🖼️🚌1️⃣2️⃣ | A general representation model across vision, audio, language modalities. Paper: ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities|
+| 2023-05-19 | [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) | 2179 | 🔠🔨 | A full-featured, hackable Next.js AI chatbot built by Vercel Labs|
+| 2023-05-18 | [OFA-Sys/ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) | 519 | 🖼️🚌1️⃣2️⃣ | A general representation model across vision, audio, language modalities. Paper: ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities|
 | 2023-05-18 | [OpenGVLab/VisionLLM](https://github.com/OpenGVLab/VisionLLM) | 394 | 🖼️`🚌``2️⃣` | VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks|
 | 2023-05-18 | [TBD54566975/web5-chatgpt-plugin](https://github.com/TBD54566975/web5-chatgpt-plugin) | 10 | 🔠🔌 | A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT|
 | 2023-05-18 | [cuishuang/explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) | 327 | 🔠📝 | 👂🏻 chatgpt讲解Go知名项目的源码|
@@ -274,9 +273,9 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-13 | [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) | 380 | 🔠🖼️🔨 | |
 | 2023-05-13 | [ztxz16/fastllm](https://github.com/ztxz16/fastllm) | 1187 | 🔠💡 | 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行|
 | 2023-05-12 | [SJTU-LIT/ceval](https://github.com/SJTU-LIT/ceval) | 826 | 🔠⛽ | Official github repo for C-Eval, a Chinese evaluation suite for foundation models|
-| 2023-05-12 | [StanGirard/quivr](https://github.com/StanGirard/quivr) | 17600 | 🔠📱 | 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 |
+| 2023-05-12 | [StanGirard/quivr](https://github.com/StanGirard/quivr) | 17602 | 🔠📱 | 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 |
 | 2023-05-12 | [TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot) | 1584 | 🔠⛽🚌1️⃣2️⃣ | TigerBot: A multi-language multi-task LLM|
-| 2023-05-12 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 1940 | 🔠📱 | GPT based autonomous agent that does online comprehensive research on any given topic|
+| 2023-05-12 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 1943 | 🔠📱 | GPT based autonomous agent that does online comprehensive research on any given topic|
 | 2023-05-12 | [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) | 2004 | 🔠📱 | Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.|
 | 2023-05-12 | [jconorgrogan/CLARKGPT](https://github.com/jconorgrogan/CLARKGPT) | 220 | 🔠📝 | The ultimate LLM prompt: extract the best possible answers with the highest fidelity and lowest error rates|
 | 2023-05-12 | [r2d4/react-llm](https://github.com/r2d4/react-llm) | 562 | 🔠🔨 | Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().|
@@ -292,7 +291,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-09 | [Anil-matcha/ChatPDF](https://github.com/Anil-matcha/ChatPDF) | 715 | 🔠📱 | Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.|
 | 2023-05-09 | [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) | 386 | 🔠📱 | Make contextual data visualization with Chat Interface from tabular datasets|
 | 2023-05-09 | [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | 389 | 🔠🔨 | C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI.|
-| 2023-05-09 | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | 2400 | 🔠📱 | aider is GPT powered coding in your terminal|
+| 2023-05-09 | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | 2401 | 🔠📱 | aider is GPT powered coding in your terminal|
 | 2023-05-08 | [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) | 2704 | 🔠🔨 | InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)|
 | 2023-05-08 | [OptimalScale/DetGPT](https://github.com/OptimalScale/DetGPT) | 561 | 🔠🖼️📱 | DetGPT locates target objects, not just describing images.|
 | 2023-05-08 | [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one) | 1203 | 🖼️🔌 | This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。|
@@ -311,10 +310,10 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-05 | [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) | 2144 | 🔠🔨 | A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.|
 | 2023-05-05 | [r2d4/rellm](https://github.com/r2d4/rellm) | 353 | 🔠📱 | Exact structure out of any language model completion.|
 | 2023-05-04 | [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) | 1788 | 🔠🖼️🚌`1️⃣`2️⃣ | Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.|
-| 2023-05-04 | [ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) | 1075 | 🖼️⛽🚌2️⃣ | Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds|
+| 2023-05-04 | [ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) | 1077 | 🖼️⛽🚌2️⃣ | Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds|
 | 2023-05-04 | [thunlp/WebCPM](https://github.com/thunlp/WebCPM) | 824 | 🔠⛽🚌2️⃣ | Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"|
-| 2023-05-04 | [turboderp/exllama](https://github.com/turboderp/exllama) | 1147 | 🔠✂️ | A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.|
-| 2023-05-04 | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | 6137 | 🔠❓ | Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free|
+| 2023-05-04 | [turboderp/exllama](https://github.com/turboderp/exllama) | 1148 | 🔠✂️ | A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.|
+| 2023-05-04 | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | 6138 | 🔠❓ | Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free|
 | 2023-05-03 | [IBM/Dromedary](https://github.com/IBM/Dromedary) | 948 | 🔠🚌2️⃣ | Dromedary: towards helpful, ethical and reliable LLMs.|
 | 2023-05-03 | [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 7327 | 🔠🔨 | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|
 | 2023-05-03 | [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) | 593 | 🔠🚌 | LLM that combines the principles of wizardLM and vicunaLM|
@@ -322,7 +321,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-05-03 | [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) | 659 | 🔠🔨 | Structured and typehinted GPT responses in Python|
 | 2023-05-03 | [tatsu-lab/alpaca_farm](https://github.com/tatsu-lab/alpaca_farm) | 469 | 🔠⛽🚌2️⃣ | A simulation framework for RLHF and alternatives. Develop your RLHF method without collecting human data. |
 | 2023-05-02 | [Docta-ai/docta](https://github.com/Docta-ai/docta) | 1174 | 🔠🖼️⛽ | A Doctor for your data|
-| 2023-05-02 | [imartinez/privateGPT](https://github.com/imartinez/privateGPT) | 33463 | 🔠📱 | Interact privately with your documents using the power of GPT, 100% privately, no data leaks|
+| 2023-05-02 | [imartinez/privateGPT](https://github.com/imartinez/privateGPT) | 33462 | 🔠📱 | Interact privately with your documents using the power of GPT, 100% privately, no data leaks|
 | 2023-05-02 | [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) | 228 | 🎥📱 | General video interaction platform based on LLMs, including Video ChatGPT|
 | 2023-05-02 | [salesforce/CodeTF](https://github.com/salesforce/CodeTF) | 1286 | 🔠⛽🚕2️⃣ | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM|
 | 2023-05-02 | [team-openpm/workgpt](https://github.com/team-openpm/workgpt) | 574 | 🔠📱 | A GPT agent framework for invoking APIs|
@@ -332,7 +331,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-30 | [jconorgrogan/JamesGPT](https://github.com/jconorgrogan/JamesGPT) | 353 | 🔠📝 | Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias|
 | 2023-04-30 | [rsaryev/auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) | 353 | 🔠📱 | auto-copilot-cli is a versatile tool that offers several functionalities|
 | 2023-04-29 | [1rgs/jsonformer](https://github.com/1rgs/jsonformer) | 2733 | 🔠📱 | A Bulletproof Way to Generate Structured JSON from Language Models|
-| 2023-04-29 | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | 38487 | 🔠📱 | Specify what you want it to build, the AI asks for clarification, and then builds it.|
+| 2023-04-29 | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | 38490 | 🔠📱 | Specify what you want it to build, the AI asks for clarification, and then builds it.|
 | 2023-04-29 | [isLinXu/prompt-engineering-note](https://github.com/isLinXu/prompt-engineering-note) | 218 | 🔠📝 | 🔥🔔prompt-engineering-note🔔🔥|
 | 2023-04-29 | [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) | 978 | 🖼️📱 | This Discord chatbot is incredibly versatile, offering a wide range of customization options. |
 | 2023-04-29 | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) | 10418 | 🔠💡 | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|
@@ -370,7 +369,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-24 | [stassius/StableHoudini](https://github.com/stassius/StableHoudini) | 289 | 🖼️🔌 | Stable Diffusion Houdini Toolset|
 | 2023-04-24 | [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) | 708 | 🔠📝 | 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀|
 | 2023-04-23 | [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | 537 | 🔠📝 | |
-| 2023-04-23 | [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) | 5640 | 🔠📝 | A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)|
+| 2023-04-23 | [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) | 5641 | 🔠📝 | A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)|
 | 2023-04-23 | [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) | 542 | 🔠🔨 | 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.|
 | 2023-04-23 | [StevenGrove/GPT4Tools](https://github.com/StevenGrove/GPT4Tools) | 528 | 🔠🖼️⛽🚌2️⃣ | GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.|
 | 2023-04-23 | [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) | 2985 | 🔠🖼️⛽🚌2️⃣✂️🀄 | Chinese and English multimodal conversational language model \| 多模态中英双语对话语言模型|
@@ -381,7 +380,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-23 | [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) | 4095 | 🔠⛽🚌2️⃣ | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder|
 | 2023-04-23 | [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 3178 | 🔠📱 | AI tool to build charts based on text input|
 | 2023-04-22 | [LemonQu-GIT/ChatGLM-6B-Engineering](https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering) | 450 | 🔠🖼️🔨 | ChatGLM-6B Prompt Engineering Project|
-| 2023-04-22 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | 1387 | 🔠🔨 | OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.|
+| 2023-04-22 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | 1388 | 🔠🔨 | OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.|
 | 2023-04-21 | [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) | 916 | 🔠📱 | 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥|
 | 2023-04-21 | [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) | 6505 | 🔠📝 | Tips and tricks for working with Large Language Models like OpenAI's GPT-4.|
 | 2023-04-21 | [itamargol/openai](https://github.com/itamargol/openai) | 308 | 🔠🔨 | LLMs Best Tricks|
@@ -394,13 +393,13 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-20 | [lamini-ai/lamini](https://github.com/lamini-ai/lamini) | 1976 | 🔠⛽ | |
 | 2023-04-20 | [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) | 979 | 🔠🔨 | BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.|
 | 2023-04-20 | [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) | 454 | 🔠🔨 | Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model|
-| 2023-04-20 | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) | 4959 | 🔠⛽🚕2️⃣🀄 |  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型|
+| 2023-04-20 | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) | 4960 | 🔠⛽🚕2️⃣🀄 |  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型|
 | 2023-04-20 | [showlab/VLog](https://github.com/showlab/VLog) | 374 | 🔠🎥📱 | Transform Video as a Document with ChatGPT, CLIP, BLIP2, GRIT, Whisper, LangChain.|
 | 2023-04-19 | [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) | 1966 | 🔠❓ | Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. |
 | 2023-04-19 | [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 1974 | 🔠🎥📱 | [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.|
 | 2023-04-19 | [RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH) | 734 | 🔠🖼️🚌2️⃣✂️ | MiniGPT-4 中文部署翻译 完善部署细节|
 | 2023-04-19 | [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) | 15009 | 🔠🚌 | StableLM: Stability AI Language Models|
-| 2023-04-19 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 5081 | 🔠💡 | Operating LLMs in production|
+| 2023-04-19 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 5083 | 🔠💡 | Operating LLMs in production|
 | 2023-04-19 | [danielgross/LlamaAcademy](https://github.com/danielgross/LlamaAcademy) | 1176 | 🔠📱 | A school for camelids|
 | 2023-04-19 | [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) | 824 | 🎵2️⃣ | Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch|
 | 2023-04-19 | [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) | 828 | 🔠🖼️📱 | Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".|
@@ -414,21 +413,21 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-17 | [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1450 | 🔠📱 | Query your Apple Health data with natural language 💬 🩺|
 | 2023-04-17 | [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) | 2265 | 🔠⛽🚌2️⃣💰 | H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs|
 | 2023-04-17 | [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) | 3600 | 🔠🖼️⛽🚌1️⃣2️⃣ | Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.|
-| 2023-04-17 | [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) | 1492 | 🖼️🔌 | Stable Diffusion Painting|
+| 2023-04-17 | [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) | 1493 | 🖼️🔌 | Stable Diffusion Painting|
 | 2023-04-17 | [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) | 677 | 🎥📝 | A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.|
 | 2023-04-17 | [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) | 1972 | 🔠📱 | 中文langchain项目\|小必应，Q.Talk，强聊，QiangTalk|
 | 2023-04-16 | [Syan-Lin/CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) | 772 | 🔠📱 | LLM + TTS 的真实感聊天机器人 \| QQ 机器人 \| 支持表情包、QQ 表情、联网搜索|
 | 2023-04-16 | [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) | 1183 | 🔠📱 | A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.|
-| 2023-04-15 | [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) | 2228 | 🔠📱 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用|
+| 2023-04-15 | [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) | 2227 | 🔠📱 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用|
 | 2023-04-15 | [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) | 11193 | 🔠⛽🚌✂️💰🀄 | An open-source tool-augmented conversational language model from Fudan University|
 | 2023-04-15 | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | 21629 | 🔠🖼️🚌1️⃣2️⃣ | MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models|
 | 2023-04-15 | [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) | 530 | 🔠🔌 | Create and edit diagrams in ChatGPT|
 | 2023-04-15 | [dzoba/gptrpg](https://github.com/dzoba/gptrpg) | 893 | 🔠📱 | A demo of an GPT-based agent existing in an RPG-like environment|
 | 2023-04-15 | [mckaywrigley/ai-brainstore](https://github.com/mckaywrigley/ai-brainstore) | 625 | 🔠📱 | A proof-of-concept of a brain for an AI agent.|
 | 2023-04-15 | [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) | 573 | 🔠📱 | An ChatGPT integration for Jupyter Notebooks and the IPython Shell|
-| 2023-04-14 | [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) | 1118 | 🔠📱 | Modular Auto-GPT Framework|
+| 2023-04-14 | [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) | 1119 | 🔠📱 | Modular Auto-GPT Framework|
 | 2023-04-14 | [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt) | 1291 | 🔠📱 | Agent techniques to augment your LLM and push it beyong its limits|
-| 2023-04-14 | [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) | 2333 | 🔠📱 | MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
+| 2023-04-14 | [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) | 2334 | 🔠📱 | MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
 | 2023-04-14 | [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) | 857 | 🔠🔨 | Evaluation tool for LLM QA chains|
 | 2023-04-14 | [run-llama/llama-lab](https://github.com/run-llama/llama-lab) | 774 | 🔠📱 | Llama Lab is a repo dedicated to building cutting-edge projects using LlamaIndex.|
 | 2023-04-14 | [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 967 | 🔠🔨 | ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features|
@@ -454,10 +453,10 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-09 | [KohakuBlueleaf/a1111-sd-webui-lycoris](https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris) | 631 | 🖼️🔌 | An extension for stable-diffusion-webui to load lycoris models. |
 | 2023-04-09 | [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) | 1072 | 🔠🔨 | Interact with OpenAI's ChatGPT via Telegram and Voice.|
 | 2023-04-09 | [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3387 | 🔠🔌 | Plugins for Auto-GPT|
-| 2023-04-09 | [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) | 3670 | 🖼️🎥🚌🧊 | Inpaint anything using Segment Anything and inpainting models.|
+| 2023-04-09 | [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) | 3671 | 🖼️🎥🚌🧊 | Inpaint anything using Segment Anything and inpainting models.|
 | 2023-04-09 | [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) | 3623 | 🔠📱 | Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 2023-04-09 | [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) | 2169 | 🖼️🔨 | Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.|
-| 2023-04-08 | [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI) | 1302 | 🔠🖼️📱 | OpenAGI: When LLM Meets Domain Experts|
+| 2023-04-08 | [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI) | 1303 | 🔠🖼️📱 | OpenAGI: When LLM Meets Domain Experts|
 | 2023-04-08 | [hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | 2281 | 🔠⛽2️⃣3️⃣🀄 | Fine-tuning ChatGLM-6B with PEFT \| 基于 PEFT 的高效 ChatGLM 微调|
 | 2023-04-08 | [sunner/ChatALL](https://github.com/sunner/ChatALL) | 7991 | 🔠🔨 |  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers|
 | 2023-04-07 | [NimbleBoxAI/ChainFury](https://github.com/NimbleBoxAI/ChainFury) | 510 | 🔠📱 | 🦋 Build complex chat apps using LLMs in 4 clicks ⚡️|
@@ -470,7 +469,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-06 | [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) | 2462 | 🔠🔨 | gpt4all chatbot ui|
 | 2023-04-06 | [liucongg/ChatGLM-Finetuning](https://github.com/liucongg/ChatGLM-Finetuning) | 1047 | 🔠2️⃣🀄 | 基于ChatGLM-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning等|
 | 2023-04-06 | [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) | 3557 | 🔠📝🔌 | Get a ChatGPT plugin up and running in under 5 minutes!|
-| 2023-04-06 | [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) | 2096 | 🖼️🚌2️⃣🧊 | A unified framework for 3D content generation.|
+| 2023-04-06 | [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) | 2097 | 🖼️🚌2️⃣🧊 | A unified framework for 3D content generation.|
 | 2023-04-05 | [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) | 3137 | 🔠📱 | A CLI that converts natural language to shell commands.|
 | 2023-04-05 | [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) | 660 | 🔠🔨 | Scalable unofficial ChatGPT API for production.|
 | 2023-04-05 | [kreneskyp/ix](https://github.com/kreneskyp/ix) | 632 | 🔠🔨 | Autonomous GPT-4 agent platform|
@@ -480,7 +479,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-04 | [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) | 1014 | 🔠🖼️📱 | Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。|
 | 2023-04-04 | [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) | 911 | 🔠🔨📱 | Auto-GPT on the browser|
 | 2023-04-03 | [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) | 1108 | 🔠📱 | GPTeam: An open-source multi-agent simulation|
-| 2023-04-03 | [VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) | 1878 | 🔠🎥🚌`2️⃣` | A Toolkit for Text-to-Video Generation and Editing|
+| 2023-04-03 | [VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) | 1879 | 🔠🎥🚌`2️⃣` | A Toolkit for Text-to-Video Generation and Editing|
 | 2023-04-03 | [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) | 716 | 🔠🔨 | Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出|
 | 2023-04-03 | [thunlp/UltraChat](https://github.com/thunlp/UltraChat) | 1636 | 🔠⛽2️⃣ | Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)|
 | 2023-04-03 | [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) | 16089 | 🔠📱 | |
@@ -492,10 +491,10 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-04-01 | [Luodian/Otter](https://github.com/Luodian/Otter) | 2136 | 🔠🖼️⛽🚌2️⃣ | 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.|
 | 2023-04-01 | [THUDM/ImageReward](https://github.com/THUDM/ImageReward) | 540 | 🔠🖼️3️⃣🔌 | ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation|
 | 2023-04-01 | [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) | 879 | 🔠📱 | AI-Powered Function Magic: Never code again with GPT models!|
-| 2023-04-01 | [simonw/llm](https://github.com/simonw/llm) | 621 | 🔠🔨 | Access large language models from the command-line|
+| 2023-04-01 | [simonw/llm](https://github.com/simonw/llm) | 622 | 🔠🔨 | Access large language models from the command-line|
 | 2023-04-01 | [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) | 1114 | 🔠📱 | Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.|
 | 2023-04-01 | [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) | 758 | 🔠📝 | 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……|
-| 2023-03-31 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 10700 | 🔠📱 | Drag & drop UI to build your customized LLM flow|
+| 2023-03-31 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 10704 | 🔠📱 | Drag & drop UI to build your customized LLM flow|
 | 2023-03-31 | [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | 15179 | 🔠📝 | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.|
 | 2023-03-31 | [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt) | 749 | 🔠📝 | AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理|
 | 2023-03-31 | [LC1332/Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) | 621 | 🔠⛽🚌🀄 | 骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|
@@ -503,7 +502,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-31 | [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | 3344 | 🔠⛽🚕2️⃣🀄 | Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的LLaMA模型指令微调|
 | 2023-03-31 | [SCIR-HI/Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) | 688 | 🔠⛽🚕2️⃣ | Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调|
 | 2023-03-31 | [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) | 12019 | 🔠📱🀄 | langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答|
-| 2023-03-31 | [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) | 646 | 🔠📱 | SudoLang LLM Support for VSCode|
+| 2023-03-31 | [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) | 645 | 🔠📱 | SudoLang LLM Support for VSCode|
 | 2023-03-31 | [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) | 2939 | 🔠⛽🚌2️⃣ | Let ChatGPT teach your own chatbot in hours with a single GPU!|
 | 2023-03-30 | [AetherCortex/Llama-X](https://github.com/AetherCortex/Llama-X) | 1293 | 🔠`🚌`2️⃣ | Open Academic Research on Improving LLaMA to SOTA LLM|
 | 2023-03-30 | [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) | 780 | 🔠📝 | Useful GPT Prompts|
@@ -513,39 +512,39 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-30 | [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) | 805 | 🔠💡 | INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model|
 | 2023-03-30 | [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) | 1368 | 🔠🔨 | Locally running, hands-free ChatGPT UI|
 | 2023-03-29 | [AGI-Edgerunners/LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters) | 644 | 🔠⛽🚌2️⃣ | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models|
-| 2023-03-29 | [charmbracelet/mods](https://github.com/charmbracelet/mods) | 1250 | 🔠📱 | AI on the command line|
+| 2023-03-29 | [charmbracelet/mods](https://github.com/charmbracelet/mods) | 1253 | 🔠📱 | AI on the command line|
 | 2023-03-29 | [getmetal/motorhead](https://github.com/getmetal/motorhead) | 624 | 🔠📱 | 🧠 Motorhead is a memory and information retrieval server for LLMs.|
-| 2023-03-29 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 42856 | 🔠📱 | The official gpt4free repository \| various collection of powerful language models|
+| 2023-03-29 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 42858 | 🔠📱 | The official gpt4free repository \| various collection of powerful language models|
 | 2023-03-29 | [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) | 665 | 🔠⛽ | A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)|
 | 2023-03-28 | [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) | 2051 | 🔠📱 | GPT Meet Zotero.|
-| 2023-03-28 | [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) | 644 | 🔠🚕2️⃣ | 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型|
-| 2023-03-28 | [dbolya/tomesd](https://github.com/dbolya/tomesd) | 959 | 🖼️🔌 | Speed up Stable Diffusion with this one simple trick!|
+| 2023-03-28 | [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) | 645 | 🔠🚕2️⃣ | 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型|
+| 2023-03-28 | [dbolya/tomesd](https://github.com/dbolya/tomesd) | 960 | 🖼️🔌 | Speed up Stable Diffusion with this one simple trick!|
 | 2023-03-28 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | 2444 | 🔠📱 | Document Chatbot — multiple files. Powered by GPT / Embedding.|
 | 2023-03-28 | [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) | 2553 | 🔠🔨 | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.|
 | 2023-03-28 | [paradigmxyz/flux](https://github.com/paradigmxyz/flux) | 567 | 🔠🔨 | Graph-based LLM power tool for exploring many completions in parallel.|
 | 2023-03-28 | [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 10766 | 🔠🔨 | 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。|
 | 2023-03-27 | [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) | 6901 | 🔠⛽🚌2️⃣3️⃣ | An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.|
-| 2023-03-27 | [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | 7528 | 🎵🔨 | Voice data <= 10 mins can also be used to train a good VC model!|
+| 2023-03-27 | [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | 7530 | 🎵🔨 | Voice data <= 10 mins can also be used to train a good VC model!|
 | 2023-03-27 | [gmpetrov/databerry](https://github.com/gmpetrov/databerry) | 2010 | 🔠📱 | The no-code platform for building custom LLM Agents|
 | 2023-03-27 | [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) | 628 | 🔠🔨📱 | An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.|
-| 2023-03-27 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 49184 | 🔠🔨 | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue|
+| 2023-03-27 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 49188 | 🔠🔨 | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue|
 | 2023-03-27 | [osanseviero/ml_timeline](https://github.com/osanseviero/ml_timeline) | 598 | 🔠📝 | |
 | 2023-03-26 | [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) | 1074 | 🔠🔨 | Chat with your favourite LLaMA models in a native macOS app|
 | 2023-03-26 | [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) | 720 | 🔠🔨 | An open-source visual programming environment for battle-testing prompts to LLMs.|
 | 2023-03-26 | [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) | 3212 | 🔠📱 | Mac app for crushing remote tech interviews with AI|
 | 2023-03-26 | [visual-openllm/visual-openllm](https://github.com/visual-openllm/visual-openllm) | 1084 | 🔠🖼️🔨 | something like visual-chatgpt, 文心一言的开源版|
-| 2023-03-25 | [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) | 4791 | 🔠📱 | 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|
+| 2023-03-25 | [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) | 4792 | 🔠📱 | 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|
 | 2023-03-24 | [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) | 1118 | 🔠🔨 | The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer|
 | 2023-03-24 | [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) | 1879 | 🔠⛽2️⃣ | We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. Meanwhile, we created a new branch to build a Tabular LLM.（我们分别统一了丰富的IFT数据（如CoT数据，目前仍不断扩充）、多种训练效率方法（如lora，p-tuning）以及多种LLMs，三个层面上的接口，打造方便研究人员上手的LLM-IFT研究平台。同时tabular_llm分支构建了面向表格智能任务的LLM。|
 | 2023-03-24 | [databrickslabs/dolly](https://github.com/databrickslabs/dolly) | 10454 | 🔠⛽🚌2️⃣💰 | Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform|
 | 2023-03-24 | [ferrislucas/promptr](https://github.com/ferrislucas/promptr) | 696 | 🔠📱 | Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase. |
-| 2023-03-24 | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) | 5050 | 🔠🚌2️⃣💰 | Private Q&A and summarization of documents+images or chat with local GPT, 100% private, no data leaks, Apache 2.0. Demo: https://gpt.h2o.ai/|
+| 2023-03-24 | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) | 5057 | 🔠🚌2️⃣💰 | Private Q&A and summarization of documents+images or chat with local GPT, 100% private, no data leaks, Apache 2.0. Demo: https://gpt.h2o.ai/|
 | 2023-03-24 | [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) | 756 | 🔠📱 | AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答|
 | 2023-03-24 | [sobelio/llm-chain](https://github.com/sobelio/llm-chain) | 707 | 🔠📱 | `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks|
 | 2023-03-24 | [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) | 782 | 🔠🔨 | Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.|
 | 2023-03-24 | [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) | 4581 | 🔠📱 | Semantic cache for LLMs. Fully integrated with LangChain and llama_index. |
 | 2023-03-23 | [Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) | 3830 | 🔠🚌2️⃣✂️🀄 | Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|
-| 2023-03-23 | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | 2033 | 🔠💡 | Python bindings for llama.cpp|
+| 2023-03-23 | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | 2034 | 🔠💡 | Python bindings for llama.cpp|
 | 2023-03-23 | [junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D) | 1070 | 🖼️🚌`2️⃣`🧊 | [ICCV 2023] Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior|
 | 2023-03-23 | [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 18869 | 🔠📱 | The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.|
 | 2023-03-23 | [yanqiangmiffy/InstructGLM](https://github.com/yanqiangmiffy/InstructGLM) | 585 | 🔠⛽2️⃣ | ChatGLM-6B 指令学习\|指令数据\|Instruct|
@@ -594,7 +593,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-19 | [stochasticai/xTuring](https://github.com/stochasticai/xTuring) | 2042 | 🔠2️⃣ | Easily build, customize and control your own LLMs|
 | 2023-03-18 | [Beomi/KoAlpaca](https://github.com/Beomi/KoAlpaca) | 1194 | 🔠⛽🚌2️⃣ | KoAlpaca: 한국어 명령어를 이해하는 오픈소스 언어모델|
 | 2023-03-18 | [biobootloader/wolverine](https://github.com/biobootloader/wolverine) | 5129 | 🔠📱 | Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong. Even if you have many bugs it will repeatedly rerun until it's fixed.|
-| 2023-03-18 | [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) | 8454 | 🔠🖼️💡 | :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other|
+| 2023-03-18 | [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) | 8455 | 🔠🖼️💡 | :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other|
 | 2023-03-18 | [irgolic/AutoPR](https://github.com/irgolic/AutoPR) | 1020 | 🔠📱 | Fix issues with AI-generated pull requests, powered by ChatGPT|
 | 2023-03-18 | [keijiro/AICommand](https://github.com/keijiro/AICommand) | 3661 | 🔠🔨 | ChatGPT integration with Unity Editor|
 | 2023-03-18 | [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | 4011 | 🔠📝 | A list of totally open alternatives to ChatGPT|
@@ -604,16 +603,16 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-17 | [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) | 6222 | 🔠⛽🚌2️⃣✂️🀄 | BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）|
 | 2023-03-17 | [camel-ai/camel](https://github.com/camel-ai/camel) | 2591 | 🔠📱 | 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
 | 2023-03-17 | [corca-ai/EVAL](https://github.com/corca-ai/EVAL) | 804 | 🔠📱 | [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!|
-| 2023-03-17 | [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123) | 1490 | 🖼️2️⃣🧊 | Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/|
+| 2023-03-17 | [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123) | 1492 | 🖼️2️⃣🧊 | Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/|
 | 2023-03-17 | [deiucanta/chatpad](https://github.com/deiucanta/chatpad) | 820 | 🔠🔨 | Not just another ChatGPT user-interface!|
 | 2023-03-17 | [hikariming/alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) | 878 | 🔠⛽2️⃣🀄 | 人工精调的中文对话数据集和一段chatglm的微调代码|
-| 2023-03-17 | [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 12351 | 🔠📱 | GPT4 & LangChain Chatbot for large PDF docs|
+| 2023-03-17 | [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 12352 | 🔠📱 | GPT4 & LangChain Chatbot for large PDF docs|
 | 2023-03-17 | [volotat/SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) | 632 | 🖼️🔌 | This script allows to automate video stylization task using StableDiffusion and ControlNet.|
 | 2023-03-17 | [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) | 840 | 🔠💡 | Pure C++, Easy Deploy ChatGLM-6B.|
 | 2023-03-16 | [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | 8923 | 🔠🎵🚌 | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|
-| 2023-03-16 | [ChenyangQiQi/FateZero](https://github.com/ChenyangQiQi/FateZero) | 756 | 🔠🎥⛽🚌2️⃣ | Pytorch Implementation for [ICCV 2023] "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"|
-| 2023-03-16 | [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 144092 | 🔠🖼️🎵📱 | An experimental open-source attempt to make GPT-4 fully autonomous.|
-| 2023-03-16 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 8768 | 🔠📱 | Self-hosted AI coding assistant|
+| 2023-03-16 | [ChenyangQiQi/FateZero](https://github.com/ChenyangQiQi/FateZero) | 757 | 🔠🎥⛽🚌2️⃣ | Pytorch Implementation for [ICCV 2023] "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"|
+| 2023-03-16 | [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 144094 | 🔠🖼️🎵📱 | An experimental open-source attempt to make GPT-4 fully autonomous.|
+| 2023-03-16 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 8772 | 🔠📱 | Self-hosted AI coding assistant|
 | 2023-03-16 | [akshata29/chatpdf](https://github.com/akshata29/chatpdf) | 614 | 🔠📱 | Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions|
 | 2023-03-16 | [haozi/New-Bing-Anywhere](https://github.com/haozi/New-Bing-Anywhere) | 896 | 🔠🔨 | 💬 New-Bing-Anywhere extension's source |
 | 2023-03-16 | [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) | 2014 | 🔠📝 | Building Startups with an AI Co-Founder|
@@ -638,7 +637,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-13 | [rustformers/llm](https://github.com/rustformers/llm) | 4289 | 🔠💡 | An ecosystem of Rust libraries for working with large language models|
 | 2023-03-13 | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) | 16292 | 🔠🚌2️⃣ | Instruct-tune LLaMA on consumer hardware|
 | 2023-03-12 | [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) | 782 | 🔠✂️💡 | C++ implementation for BLOOM|
-| 2023-03-12 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12342 | 🔠🔨 | The simplest way to run LLaMA on your local machine|
+| 2023-03-12 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12343 | 🔠🔨 | The simplest way to run LLaMA on your local machine|
 | 2023-03-12 | [getcursor/cursor](https://github.com/getcursor/cursor) | 16259 | 🔠❓ | An editor made for programming with AI 🤖|
 | 2023-03-11 | [hnmr293/sd-webui-cutoff](https://github.com/hnmr293/sd-webui-cutoff) | 890 | 🖼️🔌 | Cutoff - Cutting Off Prompt Effect|
 | 2023-03-11 | [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 16048 | 🔠🔨 | An open source ChatGPT UI.|
@@ -647,14 +646,14 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-10 | [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) | 1665 | 🔠📝 | Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|
 | 2023-03-10 | [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) | 3172 | 🔠📱 | 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)|
 | 2023-03-10 | [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) | 3014 | 🔠📱 | A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust|
-| 2023-03-10 | [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 36788 | 🔠🔨 | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。|
+| 2023-03-10 | [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 36789 | 🔠🔨 | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。|
 | 2023-03-10 | [acheong08/ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy) | 1179 | 🔠🔨 | Simple Cloudflare bypass for ChatGPT|
 | 2023-03-10 | [ading2210/poe-api](https://github.com/ading2210/poe-api) | 2025 | 🔠🔨 | A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.|
-| 2023-03-10 | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | 34652 | 🔠✂️💡 | Port of Facebook's LLaMA model in C/C++|
+| 2023-03-10 | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | 34655 | 🔠✂️💡 | Port of Facebook's LLaMA model in C/C++|
 | 2023-03-10 | [motifland/markprompt](https://github.com/motifland/markprompt) | 2018 | 🔠📱 | Enterprise-grade AI chatbots for your website and docs|
 | 2023-03-10 | [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | 17122 | 🎵🚌2️⃣ | SoftVC VITS Singing Voice Conversion|
 | 2023-03-10 | [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 25837 | 🔠⛽🚌2️⃣ | Code and documentation to train Stanford's Alpaca models, and generate the data.|
-| 2023-03-10 | [thu-ml/unidiffuser](https://github.com/thu-ml/unidiffuser) | 996 | 🖼️🚌 | Code and models for the paper "One Transformer Fits All Distributions in Multi-Modal Diffusion"|
+| 2023-03-10 | [thu-ml/unidiffuser](https://github.com/thu-ml/unidiffuser) | 997 | 🖼️🚌 | Code and models for the paper "One Transformer Fits All Distributions in Multi-Modal Diffusion"|
 | 2023-03-09 | [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) | 2539 | 🔠🖼️🚌`2️⃣` | The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"|
 | 2023-03-09 | [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) | 674 | 🔠📱 | ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.|
 | 2023-03-09 | [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1599 | 🔠🔨 | Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!|
@@ -662,7 +661,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-09 | [riwigefi/light-gpt](https://github.com/riwigefi/light-gpt) | 1077 | 🔠🔨 | Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.|
 | 2023-03-08 | [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) | 650 | 🔠📱 | Localize your websites with AI assistance.|
 | 2023-03-08 | [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) | 548 | 🔠💡 | Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.|
-| 2023-03-08 | [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) | 13593 | 🔠📱 | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复|
+| 2023-03-08 | [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) | 13594 | 🔠📱 | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复|
 | 2023-03-08 | [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) | 4126 | 🔠📱 | A community-driven way to read and chat with AI bots - powered by chatGPT.|
 | 2023-03-07 | [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 5403 | 🔠📱 | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!|
 | 2023-03-07 | [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) | 1715 | 🖼️🔌 | Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.|
@@ -681,7 +680,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-03-05 | [shawwn/llama-dl](https://github.com/shawwn/llama-dl) | 3982 | 🔠❓ | High-speed download of LLaMA, Facebook's 65B parameter GPT model|
 | 2023-03-04 | [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) | 653 | 🔠📱 | A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.|
 | 2023-03-04 | [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) | 660 | 🔠📱 | A (nearly) seamless integration of ChatGPT into Obsidian.|
-| 2023-03-04 | [chathub-dev/chathub](https://github.com/chathub-dev/chathub) | 7136 | 🔠🔨 | All-in-one chatbot client|
+| 2023-03-04 | [chathub-dev/chathub](https://github.com/chathub-dev/chathub) | 7138 | 🔠🔨 | All-in-one chatbot client|
 | 2023-03-04 | [e2b-dev/e2b](https://github.com/e2b-dev/e2b) | 5267 | 🔠📱 | Dashboard for the e2b platform - debug, deploy, test, and monitor AI agents|
 | 2023-03-04 | [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) | 17321 | 🔠📱 | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.|
 | 2023-03-04 | [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) | 2877 | 🔠🔨 | Elegant and Powerfull. Powered by OpenAI and Vercel.|
@@ -712,20 +711,20 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-02-28 | [WPeace-HcH/WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT) | 643 | 🔠📱 | A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.|
 | 2023-02-28 | [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) | 1402 | 🔠📱 | a project which uses LLMs to democratize access to data analysis.|
 | 2023-02-28 | [gannonh/chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector) | 870 | 🔠📱 | ChatGTP (gpt3.5-turbo) starter app|
-| 2023-02-28 | [juncongmoo/pyllama](https://github.com/juncongmoo/pyllama) | 2451 | 🔠✂️ | LLaMA: Open and Efficient Foundation Language Models|
+| 2023-02-28 | [juncongmoo/pyllama](https://github.com/juncongmoo/pyllama) | 2452 | 🔠✂️ | LLaMA: Open and Efficient Foundation Language Models|
 | 2023-02-27 | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 4552 | 🔠📱 | A GPT-empowered penetration testing tool|
 | 2023-02-27 | [KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) | 1242 | 🖼️📝 | Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.|
 | 2023-02-27 | [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) | 1342 | 🖼️🔌 | 适用于Automatic1111/stable-diffusion-webui 的 Mov2mov 插件。|
 | 2023-02-27 | [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) | 2789 | 🔠🔨 | LLM as a Chatbot Service|
 | 2023-02-27 | [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) | 1086 | 🔠3️⃣ | ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT|
-| 2023-02-27 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 10914 | 🔠📱 | Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 2023-02-27 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 10915 | 🔠📱 | Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 2023-02-27 | [pkuliyi2015/multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) | 3139 | 🖼️🔌 | Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0|
 | 2023-02-27 | [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) | 696 | 🔠🔨 | PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.|
 | 2023-02-26 | [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) | 3697 | 🔠🎵🎥📱 | BibiGPT · 1-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili \| YouTube \| Tweet丨TikTok丨Local files \| Websites丨Podcasts \| Meetings \| Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)|
 | 2023-02-26 | [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 3242 | 🔠🔨 | Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。|
 | 2023-02-26 | [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) | 950 | 🔠🔨 | 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序|
 | 2023-02-26 | [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) | 2491 | 🔠📱 | 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用|
-| 2023-02-26 | [nat/openplayground](https://github.com/nat/openplayground) | 5085 | 🔠🔨 | An LLM playground you can run on your laptop|
+| 2023-02-26 | [nat/openplayground](https://github.com/nat/openplayground) | 5086 | 🔠🔨 | An LLM playground you can run on your laptop|
 | 2023-02-26 | [openai/consistency_models](https://github.com/openai/consistency_models) | 5328 | 🖼️🚌2️⃣✂️ | Official repo for consistency models.|
 | 2023-02-25 | [hnmr293/sd-webui-llul](https://github.com/hnmr293/sd-webui-llul) | 639 | 🖼️🔌 | LLuL - Local Latent upscaLer|
 | 2023-02-24 | [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) | 4896 | 🔠📝 | 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。|
@@ -748,18 +747,18 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-02-15 | [FMInference/FlexGen](https://github.com/FMInference/FlexGen) | 8332 | 🔠💡 | Running large language models on a single GPU for throughput-oriented scenarios.|
 | 2023-02-15 | [TencentARC/T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) | 2040 | 🔠🖼️🚌 | T2I-Adapter|
 | 2023-02-14 | [Nutlope/aicommits](https://github.com/Nutlope/aicommits) | 5658 | 🔠📱 | A CLI that writes your git commit messages for you with AI|
-| 2023-02-14 | [facebookresearch/llama](https://github.com/facebookresearch/llama) | 24821 | 🔠🚌 | Inference code for LLaMA models|
+| 2023-02-14 | [facebookresearch/llama](https://github.com/facebookresearch/llama) | 24822 | 🔠🚌 | Inference code for LLaMA models|
 | 2023-02-13 | [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) | 4382 | 🔠📝 | Overview and tutorial of the LangChain Library|
 | 2023-02-13 | [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) | 2536 | 🖼️📱 | Turn your rough sketch into a refined image using AI|
 | 2023-02-13 | [xenova/transformers.js](https://github.com/xenova/transformers.js) | 3163 | 🔠❓ | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!|
-| 2023-02-12 | [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | 11299 | 🖼️🔌 | WebUI extension for ControlNet|
+| 2023-02-12 | [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | 11300 | 🖼️🔌 | WebUI extension for ControlNet|
 | 2023-02-11 | [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 7146 | 🔠⛽🚕🀄 | Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.|
 | 2023-02-11 | [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) | 2112 | 🔠🔨 | ChatGPT Java SDK支持流式输出。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java|
 | 2023-02-11 | [Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) | 2079 | 🎵2️⃣ | This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion|
 | 2023-02-11 | [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 2689 | 🔠📱 | 🐥 A code review bot powered by ChatGPT|
 | 2023-02-11 | [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) | 3037 | 🎵💡 | Faster Whisper transcription with CTranslate2|
 | 2023-02-10 | [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) | 3087 | 🔠🔨 | 基于ChatGPT3.5 API实现的私有化web程序|
-| 2023-02-09 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 25498 | 🔠🔨 | 用 Express 和  Vue3 搭建的 ChatGPT 演示网页|
+| 2023-02-09 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 25499 | 🔠🔨 | 用 Express 和  Vue3 搭建的 ChatGPT 演示网页|
 | 2023-02-09 | [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) | 7656 | 🔠🔨 | Reverse engineered API of Microsoft's Bing Chat AI|
 | 2023-02-09 | [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) | 2985 | 🔠📱 | 简单描述工作内容，帮你生成完整周报|
 | 2023-02-09 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 3690 | 🔠💡 | A high-throughput and memory-efficient inference and serving engine for LLMs|
@@ -769,7 +768,7 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-02-07 | [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) | 4674 | 🔠📱 | 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀|
 | 2023-02-06 | [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) | 7126 | 🔠📱 | This is built to integrate as seamlessly as possible with the LangChain Python package.|
 | 2023-02-05 | [whitead/paper-qa](https://github.com/whitead/paper-qa) | 2783 | 🔠📱 | LLM Chain for answering questions from documents with citations|
-| 2023-02-02 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 6071 | 🔠📱 | GPT-powered chat for documentation, chat with your documents|
+| 2023-02-02 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 6072 | 🔠📱 | GPT-powered chat for documentation, chat with your documents|
 | 2023-02-01 | [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) | 21915 | 🖼️🚌2️⃣ | Let us control diffusion models!|
 | 2023-02-01 | [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) | 3229 | 🔠📱 | A LLM based research assistant that allows you to have a conversation with a research paper|
 | 2023-01-31 | [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) | 3666 | 🔠📱 | Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️|
@@ -778,30 +777,30 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2023-01-21 | [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) | 2884 | 🔠📱 | |
 | 2023-01-20 | [deep-floyd/IF](https://github.com/deep-floyd/IF) | 6885 | 🖼️🚌 | |
 | 2023-01-18 | [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) | 5599 | 🔠🔨 | A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.|
-| 2023-01-17 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 7708 | 🖼️🔨 | A powerful and modular stable diffusion GUI with a graph/nodes interface.|
+| 2023-01-17 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 7710 | 🖼️🔨 | A powerful and modular stable diffusion GUI with a graph/nodes interface.|
 | 2023-01-16 | [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) | 3040 | 🔠📱 | This repository provides a Windows-focused Gradio GUI for Kohya's Stable Diffusion trainers. The GUI allows you to set the training parameters and generate and run the required CLI commands to train the model.|
-| 2023-01-13 | [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | 8391 | 🔠🚌 | ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
+| 2023-01-13 | [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | 8392 | 🔠🚌 | ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
 | 2023-01-13 | [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) | 2108 | 🔠📱 | A git prepare-commit-msg hook for authoring commit messages with GPT-3. |
 | 2023-01-09 | [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | 4941 | 🖼️⛽🚌2️⃣ | PyTorch implementation of InstructPix2Pix, an instruction-based image editing model|
 | 2023-01-08 | [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | 4447 | 🔠🖼️🎵🎥📝 | 🔥Highlighting the top ML papers every week.|
 | 2023-01-07 | [Const-me/Whisper](https://github.com/Const-me/Whisper) | 4080 | 🎵🔨 | High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model|
 | 2023-01-07 | [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | 3823 | 🔠🔨 | A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.|
-| 2022-12-28 | [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 22847 | 🔠⛽🚌1️⃣2️⃣ | The simplest, fastest repository for training/finetuning medium-sized GPTs.|
+| 2022-12-28 | [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 22848 | 🔠⛽🚌1️⃣2️⃣ | The simplest, fastest repository for training/finetuning medium-sized GPTs.|
 | 2022-12-25 | [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) | 3435 | 🎥🚌 | Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation|
-| 2022-12-21 | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 17814 | 🔠🔨 | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.|
+| 2022-12-21 | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 17815 | 🔠🔨 | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.|
 | 2022-12-20 | [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) | 4783 | 🖼️🔌 | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. |
 | 2022-12-20 | [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) | 2785 | 🔠⛽ | Aligning pretrained language models with instruction data generated by themselves.|
-| 2022-12-16 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 33855 | 🔠📝 | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|
+| 2022-12-16 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 33856 | 🔠📝 | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|
 | 2022-12-15 | [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) | 6109 | 🖼️🔨 | Run Stable Diffusion on Mac natively|
 | 2022-12-13 | [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 34439 | 🔠📱 | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|
-| 2022-12-12 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 41552 | 🔠📝 | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|
+| 2022-12-12 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 41553 | 🔠📝 | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|
 | 2022-12-12 | [promptslab/Promptify](https://github.com/promptslab/Promptify) | 2223 | 🔠📱 | Prompt Engineering \| Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research|
 | 2022-12-10 | [BloopAI/bloop](https://github.com/BloopAI/bloop) | 7153 | 🔠📱 | bloop is a fast code search engine written in Rust.|
 | 2022-12-10 | [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | 2245 | 🔠📱 | ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API|
 | 2022-12-09 | [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | 7144 | 🔠3️⃣ | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM|
-| 2022-12-09 | [m-bain/whisperX](https://github.com/m-bain/whisperX) | 3856 | 🎵📱 | WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)|
+| 2022-12-09 | [m-bain/whisperX](https://github.com/m-bain/whisperX) | 3855 | 🎵📱 | WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)|
 | 2022-12-09 | [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) | 5967 | 🔠🔨 | OpenAI + LINE + Vercel = GPT AI Assistant|
-| 2022-12-09 | [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3110 | 🔠🔨 | 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.|
+| 2022-12-09 | [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3111 | 🔠🔨 | 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.|
 | 2022-12-08 | [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | 2785 | 🔠🔨 | ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:|
 | 2022-12-08 | [cloneofsimo/lora](https://github.com/cloneofsimo/lora) | 5261 | 🖼️2️⃣ | Using Low-rank adaptation to quickly fine-tune diffusion models.|
 | 2022-12-07 | [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 2761 | 🔠🔨 | ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。|
@@ -832,8 +831,8 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2022-12-01 | [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | 5624 | 🔠🔨 | ChatGPT for Mac, living in your menubar.|
 | 2022-11-25 | [huggingface/peft](https://github.com/huggingface/peft) | 8004 | 🔠2️⃣ | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.|
 | 2022-11-25 | [riffusion/riffusion](https://github.com/riffusion/riffusion) | 2365 | 🖼️🎵📱 | Stable diffusion for real-time music generation|
-| 2022-11-23 | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | 5337 | 🖼️🎵🎥🚌`2️⃣` | [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation|
-| 2022-11-23 | [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) | 27125 | 🖼️⛽🚌 | High-Resolution Image Synthesis with Latent Diffusion Models|
+| 2022-11-23 | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | 5338 | 🖼️🎵🎥🚌`2️⃣` | [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation|
+| 2022-11-23 | [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) | 27126 | 🖼️⛽🚌 | High-Resolution Image Synthesis with Latent Diffusion Models|
 | 2022-11-20 | [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) | 2393 | 🖼️🎵📱 | Stable diffusion for real-time music generation (web app)|
 | 2022-11-18 | [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) | 9122 | 🔠📱 | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)|
 | 2022-11-16 | [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | 13533 | 🖼️💡 | Stable Diffusion with Core ML on Apple Silicon|
@@ -843,10 +842,10 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2022-10-28 | [mli/autocut](https://github.com/mli/autocut) | 4988 | 🎥📱 | 用文本编辑器剪视频|
 | 2022-10-25 | [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) | 3405 | 🔠📝 | |
 | 2022-10-22 | [prophesier/diff-svc](https://github.com/prophesier/diff-svc) | 2323 | 🎵🚌2️⃣ | Singing Voice Conversion via diffusion model|
-| 2022-10-20 | [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) | 2499 | 🔠🖼️`🎥`⛽🚌2️⃣ | An open-source framework for training large multimodal models.|
+| 2022-10-20 | [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) | 2500 | 🔠🖼️`🎥`⛽🚌2️⃣ | An open-source framework for training large multimodal models.|
 | 2022-10-18 | [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) | 2806 | 🖼️🚌 | Latent Text-to-Image Diffusion|
 | 2022-10-17 | [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | 2645 | 🔠🎵🎥📝 | A simple notebook demonstrating prompt-based music generation via Mubert API|
-| 2022-10-17 | [hwchase17/langchain](https://github.com/hwchase17/langchain) | 54906 | 🔠📱 | ⚡ Building applications with LLMs through composability ⚡|
+| 2022-10-17 | [hwchase17/langchain](https://github.com/hwchase17/langchain) | 54908 | 🔠📱 | ⚡ Building applications with LLMs through composability ⚡|
 | 2022-10-14 | [ai-forever/Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) | 2204 | 🖼️📱 | Kandinsky 2 — multilingual text2image latent diffusion model|
 | 2022-10-13 | [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | 2344 | 🖼️📝 | Materials for the Hugging Face Diffusion Models Course|
 | 2022-10-11 | [civitai/civitai](https://github.com/civitai/civitai) | 4180 | 🖼️🔌 | A repository of models, textual inversions, and more|
@@ -859,8 +858,8 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2022-10-03 | [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) | 2181 | 🖼️📱 | Null-text inversion enables intuitive text-based editing of real images with the Stable Diffusion model.|
 | 2022-09-29 | [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) | 2292 | 🎥⛽🚌2️⃣ | The official PyTorch implementation of the paper "Human Motion Diffusion Model"|
 | 2022-09-25 | [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) | 21055 | 🎵🚌✂️ | Port of OpenAI's Whisper model in C/C++|
-| 2022-09-25 | [openai-php/client](https://github.com/openai-php/client) | 2977 | 🔠🔨 | ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.|
-| 2022-09-24 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 6718 | 🔠🎵📱 | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.|
+| 2022-09-25 | [openai-php/client](https://github.com/openai-php/client) | 2978 | 🔠🔨 | ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.|
+| 2022-09-24 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 6719 | 🔠🎵📱 | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.|
 | 2022-09-21 | [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | 6232 | 🖼️🔨 | fast-stable-diffusion + DreamBooth|
 | 2022-09-18 | [ggerganov/ggml](https://github.com/ggerganov/ggml) | 5577 | 🔠💡 | Tensor library for machine learning|
 | 2022-09-17 | [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) | 2983 | 🖼️📱 | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.|
@@ -879,12 +878,12 @@ You can click the tag icons to the corresponding markdown document or open [xlsx
 | 2022-08-24 | [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) | 7500 | 🖼️🔨 | Stable Diffusion web UI|
 | 2022-08-24 | [salesforce/LAVIS](https://github.com/salesforce/LAVIS) | 5949 | 🔠🖼️⛽🚌1️⃣2️⃣ | LAVIS - A One-stop Library for Language-Vision Intelligence|
 | 2022-08-23 | [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) | 7156 | 🖼️🔨 | Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.|
-| 2022-08-22 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 91196 | 🖼️🔨 | Stable Diffusion web UI|
+| 2022-08-22 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 91199 | 🖼️🔨 | Stable Diffusion web UI|
 | 2022-08-22 | [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) | 2294 | 🖼️🔨 | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)|
 | 2022-08-17 | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 15650 | 🖼️🔌 | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.|
-| 2022-08-10 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | 57839 | 🖼️⛽🚌 | A latent text-to-image diffusion model|
-| 2022-08-07 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 14416 | 🔠🔨 | Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。|
-| 2022-08-03 | [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) | 6771 | 🔠🚌 | GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)|
+| 2022-08-10 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | 57840 | 🖼️⛽🚌 | A latent text-to-image diffusion model|
+| 2022-08-07 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 14417 | 🔠🔨 | Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。|
+| 2022-08-03 | [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) | 6772 | 🔠🚌 | GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)|
 | 2022-08-02 | [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) | 2490 | 🖼️⛽🚌2️⃣ | |
 | 2022-08-01 | [marqo-ai/marqo](https://github.com/marqo-ai/marqo) | 3193 | 🔠🖼️📱 | Vector search for humans.|
 | 2022-07-25 | [modelscope/modelscope](https://github.com/modelscope/modelscope) | 2855 | 🔠🖼️🎵2️⃣ | ModelScope: bring the notion of Model-as-a-Service to life.|
